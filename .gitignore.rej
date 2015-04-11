@@ -1,0 +1,16 @@
+***************
+*** 55,64 ****
+  
+  # PyBuilder
+  target/
+- 
+- # don't want to upload data 
+- data/
+- intermediateData/
+- 
+- #don't want .pyc file
+- *.pyc
+--- 55,57 ----
+  
+  # PyBuilder
+  target/

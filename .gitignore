@@ -55,3 +55,20 @@ docs/_build/
 
 # PyBuilder
 target/
+
+<<<<<<< Updated upstream
+#some files not desired
+feature_lian/toolKit/
+data/
+intermediateData/
+
+#python file
+=======
+# don't want to upload data 
+data/
+intermediateData/
+feature_lian/toolKit/
+
+#don't want .pyc file
+>>>>>>> Stashed changes
+*.pyc
