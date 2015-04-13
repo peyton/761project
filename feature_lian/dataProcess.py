@@ -66,17 +66,52 @@ if __name__ == "__main__":
     trainFile = sys.argv[1]
     labelFile = sys.argv[2]
     testFile = sys.argv[3]
-    docs = getDocuments(trainFile)
-    label = getLabel(labelFile)
-    fOutT = open("docsTrue", 'w')
-    fOutF = open("docsFake", 'w')
-    print "len Docs", len(docs)
-    print "len Label", len(label)
-    for i in range(len(label)):
-        if label[i] == 0:
-            fOutF.write("\n".join(docs[i]))
-            fOutF.write("\n~~~~\n")
-        else:
-            fOutT.write("\n".join(docs[i]))
-            fOutT.write("\n~~~~\n")
+    trainOut = "%sForNGram"%trainFile
+    testOut = "%sForNGram"%testFile
+    docs = getDocumentsForNGram(trainFile)
+    fOut = open(trainOut, "w")
+    for doc in Docs:
+        fOut.write("%s\n"%doc)
+    fOut.close()
+    docs = getDocumentsForNGram(testFile)
+    fOut.open(testOut, "w")
+    for doc in Docs:
+        fOut.write("%s\n"%doc)
+    fOut.close()
+    #label = getLabel(labelFile)
+    #docs = getDocuments(trainFile)
+    #label = getLabel(labelFile)
+    #fOutT = open("docsTrue", 'w')
+    #fOutF = open("docsFake", 'w')
+    #print "len Docs", len(docs)
+    #print "len Label", len(label)
+    #for i in range(len(label)):
+    #    if label[i] == 0:
+    #        fOutF.write("\n".join(docs[i]))
+    #        fOutF.write("\n~~~~\n")
+    #    else:
+    #        fOutT.write("\n".join(docs[i]))
+    #        fOutT.write("\n~~~~\n")
+
+
+# return an array of docs with
+def getDocumentsForNGram(fileName):
+    docs = []
+    with open(fileName) as f1:
+        curDoc = []
+        for line in f1:
+            if line[0] == '~':
+                if curDoc:
+                    docs.append(" ".join(curDoc))
+                curDoc = []
+            else:
+                line = line.strip()
+                line = line.strip("</s>")
+                #line = line.strip("<s>")
+                #substitute the <UNK> with unknown
+                line = re.sub('<UNK>', 'BLABLA', line)
+                curDoc.append(line)
+        docs.append(" ".join(curDoc))
+    return docs
+
 
