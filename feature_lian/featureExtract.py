@@ -5,6 +5,9 @@ from nltk.stem.lancaster import LancasterStemmer
 import math
 import numpy as np
 import render as rd
+import lda
+import nltk
+
 
 #get type-token ratio
 def getTypeTokenRatio(docArr):
@@ -23,29 +26,64 @@ def getTypeTokenRatio(docArr):
         #print r
     return ratio
 
+#def getNgramModel(N, trainCorpus):
+    
 
-def getNgramModel(N, trainCorpus):
+def getLDAFeature(docs, vocab, nTopic, nWord):
+    X = dp.getDocMat(docs, vocab)
+    topics = trainLDA(X, np.array(sorted(vocab, key=vocab.__getitem__)), nTopic, nWord)
+    for topic in topics:
+        print topic
+
+def trainLDA(X, vocab, nTopic, nWord):
+    model = lda.LDA(n_topics=nTopic, n_iter=1000, random_state=1)
+    model.fit(X)
+    topic_word = model.topic_word_
+    topics = []
+    for i, topic_dist in enumerate(topic_word):
+        topic_words = vocab[np.argsort(topic_dist)][:-nWord:-1]
+        topics.append(topic_words)
+	#print('Topic {}: {}'.format(i, ' '.join(topic_words)))
+    return topics
 
 
 if __name__ =="__main__":
     trainFile = sys.argv[1]
+    trainOut = "%s_out"%trainFile
     labelFile = sys.argv[2]
     testFile = sys.argv[3]
+    testOut = "%s_out"%testFile
+    mwTrainFile = sys.argv[4]
     docs = dp.getDocuments(trainFile)
     label = dp.getLabel(labelFile)
-    ratio = getTypeTokenRatio(docs)
-    nT = []
-    nF = []
-    for i in range(len(ratio)):
-        if label[i] == 0:
-            nF.append(ratio[i])
-        else:
-            nT.append(ratio[i])
-    #hT = np.histogram(nT, bins = 18, range = (0.0,1.0), density = True)
-    #hF = np.histogram(nF, bins = 18, range = (0.0,1.0), density = True)
-    rd.renderCompareHist(nT, nF, "token-type rate distribution", "propopation", "value", "token-type Distribution")   
-
-
+    ############for ratio#########
+    #ratio = getTypeTokenRatio(docs)
+    #output it into a single file
+    #fOut = open(trainOut, "w")
+    #for r in ratio:
+    #    fOut.write("%f\n"%r)
+    #fOut.close()
+    #docs = dp.getDocuments(testFile)
+    #ratio = getTypeTokenRatio(docs)
+    #fOut = open(testOut, "w")
+    #for r in ratio:
+    #    fOut.write("%f\n"%r)
+    #fOut.close()
+    #nT = []
+    #nF = []
+    #for i in range(len(ratio)):
+    #    if label[i] == 0:
+    #        nF.append(ratio[i])
+    #    else:
+    #        nT.append(ratio[i])
+    #rd.renderCompareHist(nT, nF, "token-type rate distribution", "propopation", "value", "token-type Distribution")   
+    #############for lda model#########
+    #MWDocs = dp.getDocuments(mwTrainFile)
+    #vocab = dp.getVocab(docs)
+    #nTopic = 100
+    #nWord = 20
+    #getLDAFeature(docs, vocab, nTopic, nWord)
+    
 
 
 

@@ -1,6 +1,8 @@
 import sys
 import re
 from nltk.stem.lancaster import LancasterStemmer
+import numpy as np
+import nltk
 
 def getLabel(fileName):
     labels = []
@@ -30,6 +32,35 @@ def getDocuments(fileName):
         docs.append(curDoc)
     return docs
 
+def getVocab(docArr):
+    st = LancasterStemmer()
+    vocab = {}
+    for doc in docArr:
+        for line in doc:
+            words = nltk.word_tokenize(line)
+            for word in words:
+                e = st.stem(word)
+                if not e in vocab:
+                    vocab[e] = len(vocab)
+    return vocab
+    
+#return a non sparse matrix of doc-vocab id, the value represents the frequency
+def getDocMat(docArr, vocab):
+    st = LancasterStemmer()
+    X = []
+    for doc in docArr:
+        curDocArr = [0 for i in range(len(vocab))]
+        for line in doc:
+            words = nltk.word_tokenize(line)
+            for word in words:
+                e = st.stem(word)
+                if not e in vocab:
+                    continue
+                curDocArr[vocab[e]] += 1
+            X.append(curDocArr)
+    return np.array(X)
+
+    
 
 if __name__ == "__main__":
     trainFile = sys.argv[1]

@@ -68,6 +68,8 @@ intermediateData/
 data/
 intermediateData/
 feature_lian/toolKit/
+CMU-Cam-Tool/
+feature_lian/nGram/data/
 
 #don't want .pyc file
 >>>>>>> Stashed changes
