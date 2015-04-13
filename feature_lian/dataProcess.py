@@ -61,6 +61,27 @@ def getDocMat(docArr, vocab):
     return np.array(X)
 
     
+# return an array of docs with
+def getDocumentsForNGram(fileName):
+    docs = []
+    with open(fileName) as f1:
+        curDoc = []
+        for line in f1:
+            if line[0] == '~':
+                if curDoc:
+                    docs.append(" ".join(curDoc))
+                curDoc = []
+            else:
+                line = line.strip()
+                line = line[:-4]
+                #line = line.strip("<s>")
+                #substitute the <UNK> with unknown
+                line = re.sub('<UNK>', 'BLABLA', line)
+                curDoc.append(line)
+        docs.append(" ".join(curDoc))
+    return docs
+
+
 
 if __name__ == "__main__":
     trainFile = sys.argv[1]
@@ -70,12 +91,12 @@ if __name__ == "__main__":
     testOut = "%sForNGram"%testFile
     docs = getDocumentsForNGram(trainFile)
     fOut = open(trainOut, "w")
-    for doc in Docs:
+    for doc in docs:
         fOut.write("%s\n"%doc)
     fOut.close()
     docs = getDocumentsForNGram(testFile)
-    fOut.open(testOut, "w")
-    for doc in Docs:
+    fOut = open(testOut, "w")
+    for doc in docs:
         fOut.write("%s\n"%doc)
     fOut.close()
     #label = getLabel(labelFile)
@@ -92,26 +113,5 @@ if __name__ == "__main__":
     #    else:
     #        fOutT.write("\n".join(docs[i]))
     #        fOutT.write("\n~~~~\n")
-
-
-# return an array of docs with
-def getDocumentsForNGram(fileName):
-    docs = []
-    with open(fileName) as f1:
-        curDoc = []
-        for line in f1:
-            if line[0] == '~':
-                if curDoc:
-                    docs.append(" ".join(curDoc))
-                curDoc = []
-            else:
-                line = line.strip()
-                line = line.strip("</s>")
-                #line = line.strip("<s>")
-                #substitute the <UNK> with unknown
-                line = re.sub('<UNK>', 'BLABLA', line)
-                curDoc.append(line)
-        docs.append(" ".join(curDoc))
-    return docs
 
 
