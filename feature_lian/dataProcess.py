@@ -3,6 +3,7 @@ import re
 from nltk.stem.lancaster import LancasterStemmer
 import numpy as np
 import nltk
+from nltk.corpus import stopwords
 
 def getLabel(fileName):
     labels = []
@@ -47,11 +48,13 @@ def getVocab(docArr):
 #return a non sparse matrix of doc-vocab id, the value represents the frequency
 def getDocMat(docArr, vocab):
     st = LancasterStemmer()
+    cachedStopWords = stopwords.words("english")
     X = []
     for doc in docArr:
         curDocArr = [0 for i in range(len(vocab))]
         for line in doc:
-            words = nltk.word_tokenize(line)
+            raw = nltk.word_tokenize(line)
+            words = [e for e in raw if e not in cachedStopWords]
             for word in words:
                 e = st.stem(word)
                 if not e in vocab:

@@ -36,7 +36,7 @@ def getLDAFeature(docs, vocab, nTopic, nWord):
         print topic
 
 def trainLDA(X, vocab, nTopic, nWord):
-    model = lda.LDA(n_topics=nTopic, n_iter=1000, random_state=1)
+    model = lda.LDA(n_topics=nTopic, n_iter=100, random_state=1)
     model.fit(X)
     topic_word = model.topic_word_
     topics = []
@@ -78,11 +78,11 @@ if __name__ =="__main__":
     #        nT.append(ratio[i])
     #rd.renderCompareHist(nT, nF, "token-type rate distribution", "propopation", "value", "token-type Distribution")   
     #############for lda model#########
-    #MWDocs = dp.getDocuments(mwTrainFile)
-    #vocab = dp.getVocab(docs)
-    #nTopic = 100
-    #nWord = 20
-    #getLDAFeature(docs, vocab, nTopic, nWord)
+    MWDocs = dp.getDocuments(mwTrainFile)
+    vocab = dp.getVocab(docs)
+    nTopic = 10
+    nWord = 20
+    getLDAFeature(docs, vocab, nTopic, nWord)
     
 
 
