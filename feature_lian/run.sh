@@ -11,7 +11,7 @@ method=-witten_bell
 #cat ${trainFilePath} | ${path}/text2wfreq | ${path}/wfreq2vocab -top 10000 > ${trainFile}.vocab
 #Generate a k-gram of the training text, based on this vocabulary, convert it into language model
 #cat ${trainFilePath} | ${path}/text2idngram -n ${kGram} -vocab ${trainFile}.vocab > ${trainFile}.idngram
-#${path}/idngram2lm ${method} -idngram ${trainFile}.idngram -context context.ccs -n ${kGram} -four_byte_counts -vocab ${trainFile}.vocab -arpa ${trainFile}.arpa -cutoffs 4 4 4
+#${path}/idngram2lm ${method} -idngram ${trainFile}.idngram -context context.ccs -n ${kGram} -four_byte_counts -vocab ${trainFile}.vocab -arpa ${trainFile}_${kGram}.arpa -cutoffs 4 4 4
 #test on reviews-test data-set
 while read line
 do
