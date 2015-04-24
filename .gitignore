@@ -71,6 +71,7 @@ feature_lian/toolKit/
 CMU-Cam-Tool/
 feature_lian/nGram/data/
 feature_lian/kenlm/
+model/
 
 #don't want .pyc file
 >>>>>>> Stashed changes
