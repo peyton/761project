@@ -1,200 +1,200 @@
-Perplexity = 471.87, Entropy = 8.88 bits
-Perplexity = 54.33, Entropy = 5.76 bits
-Perplexity = 29.84, Entropy = 4.90 bits
-Perplexity = 102.52, Entropy = 6.68 bits
-Perplexity = 188.98, Entropy = 7.56 bits
-Perplexity = 249.49, Entropy = 7.96 bits
-Perplexity = 298.11, Entropy = 8.22 bits
-Perplexity = 142.58, Entropy = 7.16 bits
-Perplexity = 368.81, Entropy = 8.53 bits
-Perplexity = 45.81, Entropy = 5.52 bits
-Perplexity = 31.73, Entropy = 4.99 bits
-Perplexity = 57.16, Entropy = 5.84 bits
-Perplexity = 52.35, Entropy = 5.71 bits
-Perplexity = 51.99, Entropy = 5.70 bits
-Perplexity = 118.89, Entropy = 6.89 bits
-Perplexity = 91.91, Entropy = 6.52 bits
-Perplexity = 119.34, Entropy = 6.90 bits
-Perplexity = 47.30, Entropy = 5.56 bits
-Perplexity = 123.56, Entropy = 6.95 bits
-Perplexity = 105.75, Entropy = 6.72 bits
-Perplexity = 113.69, Entropy = 6.83 bits
-Perplexity = 200.84, Entropy = 7.65 bits
-Perplexity = 316.22, Entropy = 8.30 bits
-Perplexity = 165.15, Entropy = 7.37 bits
-Perplexity = 108.28, Entropy = 6.76 bits
-Perplexity = 86.69, Entropy = 6.44 bits
-Perplexity = 38.33, Entropy = 5.26 bits
-Perplexity = 58.93, Entropy = 5.88 bits
-Perplexity = 71.67, Entropy = 6.16 bits
-Perplexity = 87.74, Entropy = 6.46 bits
-Perplexity = 41.98, Entropy = 5.39 bits
-Perplexity = 295.50, Entropy = 8.21 bits
-Perplexity = 70.05, Entropy = 6.13 bits
-Perplexity = 66.39, Entropy = 6.05 bits
-Perplexity = 95.24, Entropy = 6.57 bits
-Perplexity = 167.49, Entropy = 7.39 bits
-Perplexity = 134.02, Entropy = 7.07 bits
-Perplexity = 76.62, Entropy = 6.26 bits
-Perplexity = 14.07, Entropy = 3.81 bits
-Perplexity = 51.39, Entropy = 5.68 bits
-Perplexity = 63.27, Entropy = 5.98 bits
-Perplexity = 71.99, Entropy = 6.17 bits
-Perplexity = 61.52, Entropy = 5.94 bits
-Perplexity = 291.04, Entropy = 8.19 bits
-Perplexity = 60.74, Entropy = 5.92 bits
-Perplexity = 235.45, Entropy = 7.88 bits
-Perplexity = 201.58, Entropy = 7.66 bits
-Perplexity = 107.40, Entropy = 6.75 bits
-Perplexity = 206.37, Entropy = 7.69 bits
-Perplexity = 153.25, Entropy = 7.26 bits
-Perplexity = 75.08, Entropy = 6.23 bits
-Perplexity = 164.99, Entropy = 7.37 bits
-Perplexity = 79.24, Entropy = 6.31 bits
-Perplexity = 146.25, Entropy = 7.19 bits
-Perplexity = 76.14, Entropy = 6.25 bits
-Perplexity = 188.22, Entropy = 7.56 bits
-Perplexity = 97.42, Entropy = 6.61 bits
-Perplexity = 128.37, Entropy = 7.00 bits
-Perplexity = 693.63, Entropy = 9.44 bits
-Perplexity = 94.46, Entropy = 6.56 bits
-Perplexity = 87.40, Entropy = 6.45 bits
-Perplexity = 98.31, Entropy = 6.62 bits
-Perplexity = 171.24, Entropy = 7.42 bits
-Perplexity = 118.95, Entropy = 6.89 bits
-Perplexity = 7.20, Entropy = 2.85 bits
-Perplexity = 60.12, Entropy = 5.91 bits
-Perplexity = 149.32, Entropy = 7.22 bits
-Perplexity = 153.02, Entropy = 7.26 bits
-Perplexity = 208.98, Entropy = 7.71 bits
-Perplexity = 90.59, Entropy = 6.50 bits
-Perplexity = 175.05, Entropy = 7.45 bits
-Perplexity = 132.47, Entropy = 7.05 bits
-Perplexity = 39.77, Entropy = 5.31 bits
-Perplexity = 38.73, Entropy = 5.28 bits
-Perplexity = 132.54, Entropy = 7.05 bits
-Perplexity = 27.28, Entropy = 4.77 bits
-Perplexity = 51.59, Entropy = 5.69 bits
-Perplexity = 118.85, Entropy = 6.89 bits
-Perplexity = 51.24, Entropy = 5.68 bits
-Perplexity = 81.80, Entropy = 6.35 bits
-Perplexity = 168.85, Entropy = 7.40 bits
-Perplexity = 331.43, Entropy = 8.37 bits
-Perplexity = 67.54, Entropy = 6.08 bits
-Perplexity = 91.28, Entropy = 6.51 bits
-Perplexity = 210.24, Entropy = 7.72 bits
-Perplexity = 96.75, Entropy = 6.60 bits
-Perplexity = 104.33, Entropy = 6.71 bits
-Perplexity = 94.09, Entropy = 6.56 bits
-Perplexity = 100.50, Entropy = 6.65 bits
-Perplexity = 162.23, Entropy = 7.34 bits
-Perplexity = 113.69, Entropy = 6.83 bits
-Perplexity = 100.95, Entropy = 6.66 bits
-Perplexity = 156.53, Entropy = 7.29 bits
-Perplexity = 181.28, Entropy = 7.50 bits
-Perplexity = 17.25, Entropy = 4.11 bits
-Perplexity = 138.20, Entropy = 7.11 bits
-Perplexity = 315.33, Entropy = 8.30 bits
-Perplexity = 43.70, Entropy = 5.45 bits
-Perplexity = 287.84, Entropy = 8.17 bits
-Perplexity = 164.81, Entropy = 7.36 bits
-Perplexity = 80.29, Entropy = 6.33 bits
-Perplexity = 91.24, Entropy = 6.51 bits
-Perplexity = 132.71, Entropy = 7.05 bits
-Perplexity = 105.40, Entropy = 6.72 bits
-Perplexity = 265.06, Entropy = 8.05 bits
-Perplexity = 110.44, Entropy = 6.79 bits
-Perplexity = 59.66, Entropy = 5.90 bits
-Perplexity = 89.04, Entropy = 6.48 bits
-Perplexity = 47.22, Entropy = 5.56 bits
-Perplexity = 155.96, Entropy = 7.28 bits
-Perplexity = 108.29, Entropy = 6.76 bits
-Perplexity = 81.18, Entropy = 6.34 bits
-Perplexity = 84.18, Entropy = 6.40 bits
-Perplexity = 161.83, Entropy = 7.34 bits
-Perplexity = 166.71, Entropy = 7.38 bits
-Perplexity = 54.67, Entropy = 5.77 bits
-Perplexity = 182.63, Entropy = 7.51 bits
-Perplexity = 58.28, Entropy = 5.86 bits
-Perplexity = 106.87, Entropy = 6.74 bits
-Perplexity = 127.66, Entropy = 7.00 bits
-Perplexity = 111.37, Entropy = 6.80 bits
-Perplexity = 244.06, Entropy = 7.93 bits
-Perplexity = 59.43, Entropy = 5.89 bits
-Perplexity = 46.40, Entropy = 5.54 bits
-Perplexity = 87.55, Entropy = 6.45 bits
-Perplexity = 70.90, Entropy = 6.15 bits
-Perplexity = 182.90, Entropy = 7.51 bits
-Perplexity = 109.67, Entropy = 6.78 bits
-Perplexity = 88.28, Entropy = 6.46 bits
-Perplexity = 79.15, Entropy = 6.31 bits
-Perplexity = 67.59, Entropy = 6.08 bits
-Perplexity = 66.82, Entropy = 6.06 bits
-Perplexity = 93.02, Entropy = 6.54 bits
-Perplexity = 109.63, Entropy = 6.78 bits
-Perplexity = 57.85, Entropy = 5.85 bits
-Perplexity = 139.94, Entropy = 7.13 bits
-Perplexity = 257.19, Entropy = 8.01 bits
-Perplexity = 113.38, Entropy = 6.83 bits
-Perplexity = 89.36, Entropy = 6.48 bits
-Perplexity = 164.83, Entropy = 7.36 bits
-Perplexity = 258.54, Entropy = 8.01 bits
-Perplexity = 130.18, Entropy = 7.02 bits
-Perplexity = 129.91, Entropy = 7.02 bits
-Perplexity = 92.55, Entropy = 6.53 bits
-Perplexity = 214.70, Entropy = 7.75 bits
-Perplexity = 123.72, Entropy = 6.95 bits
-Perplexity = 79.49, Entropy = 6.31 bits
-Perplexity = 142.37, Entropy = 7.15 bits
-Perplexity = 32.13, Entropy = 5.01 bits
-Perplexity = 81.89, Entropy = 6.36 bits
-Perplexity = 64.59, Entropy = 6.01 bits
-Perplexity = 113.97, Entropy = 6.83 bits
-Perplexity = 94.37, Entropy = 6.56 bits
-Perplexity = 236.66, Entropy = 7.89 bits
-Perplexity = 156.24, Entropy = 7.29 bits
-Perplexity = 127.23, Entropy = 6.99 bits
-Perplexity = 67.72, Entropy = 6.08 bits
-Perplexity = 95.21, Entropy = 6.57 bits
-Perplexity = 124.86, Entropy = 6.96 bits
-Perplexity = 143.52, Entropy = 7.17 bits
-Perplexity = 91.14, Entropy = 6.51 bits
-Perplexity = 126.39, Entropy = 6.98 bits
-Perplexity = 128.01, Entropy = 7.00 bits
-Perplexity = 108.50, Entropy = 6.76 bits
-Perplexity = 72.00, Entropy = 6.17 bits
-Perplexity = 146.02, Entropy = 7.19 bits
-Perplexity = 255.55, Entropy = 8.00 bits
-Perplexity = 88.22, Entropy = 6.46 bits
-Perplexity = 65.03, Entropy = 6.02 bits
-Perplexity = 138.50, Entropy = 7.11 bits
-Perplexity = 92.38, Entropy = 6.53 bits
-Perplexity = 95.79, Entropy = 6.58 bits
-Perplexity = 103.71, Entropy = 6.70 bits
-Perplexity = 124.27, Entropy = 6.96 bits
-Perplexity = 50.93, Entropy = 5.67 bits
-Perplexity = 121.75, Entropy = 6.93 bits
-Perplexity = 81.86, Entropy = 6.36 bits
-Perplexity = 146.60, Entropy = 7.20 bits
-Perplexity = 137.97, Entropy = 7.11 bits
-Perplexity = 110.34, Entropy = 6.79 bits
-Perplexity = 96.68, Entropy = 6.60 bits
-Perplexity = 113.82, Entropy = 6.83 bits
-Perplexity = 55.41, Entropy = 5.79 bits
-Perplexity = 94.19, Entropy = 6.56 bits
-Perplexity = 86.74, Entropy = 6.44 bits
-Perplexity = 121.58, Entropy = 6.93 bits
-Perplexity = 61.59, Entropy = 5.94 bits
-Perplexity = 132.83, Entropy = 7.05 bits
-Perplexity = 114.68, Entropy = 6.84 bits
-Perplexity = 176.77, Entropy = 7.47 bits
-Perplexity = 49.44, Entropy = 5.63 bits
-Perplexity = 119.08, Entropy = 6.90 bits
-Perplexity = 50.52, Entropy = 5.66 bits
-Perplexity = 125.36, Entropy = 6.97 bits
-Perplexity = 164.42, Entropy = 7.36 bits
-Perplexity = 133.65, Entropy = 7.06 bits
-Perplexity = 204.07, Entropy = 7.67 bits
-Perplexity = 123.64, Entropy = 6.95 bits
-Perplexity = 79.04, Entropy = 6.30 bits
-Perplexity = 103.45, Entropy = 6.69 bits
+471.87 8.88
+54.33 5.76
+29.84 4.9
+102.52 6.68
+188.98 7.56
+249.49 7.96
+298.11 8.22
+142.58 7.16
+368.81 8.53
+45.81 5.52
+31.73 4.99
+57.16 5.84
+52.35 5.71
+51.99 5.7
+118.89 6.89
+91.91 6.52
+119.34 6.9
+47.3 5.56
+123.56 6.95
+105.75 6.72
+113.69 6.83
+200.84 7.65
+316.22 8.3
+165.15 7.37
+108.28 6.76
+86.69 6.44
+38.33 5.26
+58.93 5.88
+71.67 6.16
+87.74 6.46
+41.98 5.39
+295.5 8.21
+70.05 6.13
+66.39 6.05
+95.24 6.57
+167.49 7.39
+134.02 7.07
+76.62 6.26
+14.07 3.81
+51.39 5.68
+63.27 5.98
+71.99 6.17
+61.52 5.94
+291.04 8.19
+60.74 5.92
+235.45 7.88
+201.58 7.66
+107.4 6.75
+206.37 7.69
+153.25 7.26
+75.08 6.23
+164.99 7.37
+79.24 6.31
+146.25 7.19
+76.14 6.25
+188.22 7.56
+97.42 6.61
+128.37 7.0
+693.63 9.44
+94.46 6.56
+87.4 6.45
+98.31 6.62
+171.24 7.42
+118.95 6.89
+7.2 2.85
+60.12 5.91
+149.32 7.22
+153.02 7.26
+208.98 7.71
+90.59 6.5
+175.05 7.45
+132.47 7.05
+39.77 5.31
+38.73 5.28
+132.54 7.05
+27.28 4.77
+51.59 5.69
+118.85 6.89
+51.24 5.68
+81.8 6.35
+168.85 7.4
+331.43 8.37
+67.54 6.08
+91.28 6.51
+210.24 7.72
+96.75 6.6
+104.33 6.71
+94.09 6.56
+100.5 6.65
+162.23 7.34
+113.69 6.83
+100.95 6.66
+156.53 7.29
+181.28 7.5
+17.25 4.11
+138.2 7.11
+315.33 8.3
+43.7 5.45
+287.84 8.17
+164.81 7.36
+80.29 6.33
+91.24 6.51
+132.71 7.05
+105.4 6.72
+265.06 8.05
+110.44 6.79
+59.66 5.9
+89.04 6.48
+47.22 5.56
+155.96 7.28
+108.29 6.76
+81.18 6.34
+84.18 6.4
+161.83 7.34
+166.71 7.38
+54.67 5.77
+182.63 7.51
+58.28 5.86
+106.87 6.74
+127.66 7.0
+111.37 6.8
+244.06 7.93
+59.43 5.89
+46.4 5.54
+87.55 6.45
+70.9 6.15
+182.9 7.51
+109.67 6.78
+88.28 6.46
+79.15 6.31
+67.59 6.08
+66.82 6.06
+93.02 6.54
+109.63 6.78
+57.85 5.85
+139.94 7.13
+257.19 8.01
+113.38 6.83
+89.36 6.48
+164.83 7.36
+258.54 8.01
+130.18 7.02
+129.91 7.02
+92.55 6.53
+214.7 7.75
+123.72 6.95
+79.49 6.31
+142.37 7.15
+32.13 5.01
+81.89 6.36
+64.59 6.01
+113.97 6.83
+94.37 6.56
+236.66 7.89
+156.24 7.29
+127.23 6.99
+67.72 6.08
+95.21 6.57
+124.86 6.96
+143.52 7.17
+91.14 6.51
+126.39 6.98
+128.01 7.0
+108.5 6.76
+72.0 6.17
+146.02 7.19
+255.55 8.0
+88.22 6.46
+65.03 6.02
+138.5 7.11
+92.38 6.53
+95.79 6.58
+103.71 6.7
+124.27 6.96
+50.93 5.67
+121.75 6.93
+81.86 6.36
+146.6 7.2
+137.97 7.11
+110.34 6.79
+96.68 6.6
+113.82 6.83
+55.41 5.79
+94.19 6.56
+86.74 6.44
+121.58 6.93
+61.59 5.94
+132.83 7.05
+114.68 6.84
+176.77 7.47
+49.44 5.63
+119.08 6.9
+50.52 5.66
+125.36 6.97
+164.42 7.36
+133.65 7.06
+204.07 7.67
+123.64 6.95
+79.04 6.3
+103.45 6.69

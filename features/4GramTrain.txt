@@ -1,1000 +1,1000 @@
-Perplexity = 117.11, Entropy = 6.87 bits
-Perplexity = 79.95, Entropy = 6.32 bits
-Perplexity = 119.48, Entropy = 6.90 bits
-Perplexity = 85.66, Entropy = 6.42 bits
-Perplexity = 173.03, Entropy = 7.43 bits
-Perplexity = 132.35, Entropy = 7.05 bits
-Perplexity = 229.48, Entropy = 7.84 bits
-Perplexity = 132.27, Entropy = 7.05 bits
-Perplexity = 115.87, Entropy = 6.86 bits
-Perplexity = 124.90, Entropy = 6.96 bits
-Perplexity = 113.99, Entropy = 6.83 bits
-Perplexity = 133.48, Entropy = 7.06 bits
-Perplexity = 93.01, Entropy = 6.54 bits
-Perplexity = 136.44, Entropy = 7.09 bits
-Perplexity = 144.87, Entropy = 7.18 bits
-Perplexity = 152.39, Entropy = 7.25 bits
-Perplexity = 175.83, Entropy = 7.46 bits
-Perplexity = 120.44, Entropy = 6.91 bits
-Perplexity = 100.00, Entropy = 6.64 bits
-Perplexity = 151.21, Entropy = 7.24 bits
-Perplexity = 114.62, Entropy = 6.84 bits
-Perplexity = 138.88, Entropy = 7.12 bits
-Perplexity = 160.24, Entropy = 7.32 bits
-Perplexity = 153.53, Entropy = 7.26 bits
-Perplexity = 99.76, Entropy = 6.64 bits
-Perplexity = 207.29, Entropy = 7.70 bits
-Perplexity = 182.47, Entropy = 7.51 bits
-Perplexity = 152.96, Entropy = 7.26 bits
-Perplexity = 115.77, Entropy = 6.86 bits
-Perplexity = 173.00, Entropy = 7.43 bits
-Perplexity = 119.67, Entropy = 6.90 bits
-Perplexity = 127.00, Entropy = 6.99 bits
-Perplexity = 125.03, Entropy = 6.97 bits
-Perplexity = 163.25, Entropy = 7.35 bits
-Perplexity = 126.75, Entropy = 6.99 bits
-Perplexity = 124.88, Entropy = 6.96 bits
-Perplexity = 113.40, Entropy = 6.83 bits
-Perplexity = 92.40, Entropy = 6.53 bits
-Perplexity = 137.92, Entropy = 7.11 bits
-Perplexity = 99.92, Entropy = 6.64 bits
-Perplexity = 54.63, Entropy = 5.77 bits
-Perplexity = 111.12, Entropy = 6.80 bits
-Perplexity = 132.65, Entropy = 7.05 bits
-Perplexity = 100.42, Entropy = 6.65 bits
-Perplexity = 128.34, Entropy = 7.00 bits
-Perplexity = 147.26, Entropy = 7.20 bits
-Perplexity = 164.57, Entropy = 7.36 bits
-Perplexity = 121.76, Entropy = 6.93 bits
-Perplexity = 218.20, Entropy = 7.77 bits
-Perplexity = 118.50, Entropy = 6.89 bits
-Perplexity = 116.70, Entropy = 6.87 bits
-Perplexity = 149.78, Entropy = 7.23 bits
-Perplexity = 126.41, Entropy = 6.98 bits
-Perplexity = 125.41, Entropy = 6.97 bits
-Perplexity = 118.79, Entropy = 6.89 bits
-Perplexity = 81.98, Entropy = 6.36 bits
-Perplexity = 111.85, Entropy = 6.81 bits
-Perplexity = 86.46, Entropy = 6.43 bits
-Perplexity = 115.84, Entropy = 6.86 bits
-Perplexity = 110.54, Entropy = 6.79 bits
-Perplexity = 108.66, Entropy = 6.76 bits
-Perplexity = 151.31, Entropy = 7.24 bits
-Perplexity = 147.19, Entropy = 7.20 bits
-Perplexity = 145.19, Entropy = 7.18 bits
-Perplexity = 106.74, Entropy = 6.74 bits
-Perplexity = 109.13, Entropy = 6.77 bits
-Perplexity = 92.29, Entropy = 6.53 bits
-Perplexity = 176.10, Entropy = 7.46 bits
-Perplexity = 134.00, Entropy = 7.07 bits
-Perplexity = 241.44, Entropy = 7.92 bits
-Perplexity = 113.99, Entropy = 6.83 bits
-Perplexity = 120.78, Entropy = 6.92 bits
-Perplexity = 127.75, Entropy = 7.00 bits
-Perplexity = 111.92, Entropy = 6.81 bits
-Perplexity = 155.88, Entropy = 7.28 bits
-Perplexity = 105.53, Entropy = 6.72 bits
-Perplexity = 102.90, Entropy = 6.69 bits
-Perplexity = 129.08, Entropy = 7.01 bits
-Perplexity = 123.03, Entropy = 6.94 bits
-Perplexity = 150.93, Entropy = 7.24 bits
-Perplexity = 164.53, Entropy = 7.36 bits
-Perplexity = 126.21, Entropy = 6.98 bits
-Perplexity = 113.85, Entropy = 6.83 bits
-Perplexity = 107.02, Entropy = 6.74 bits
-Perplexity = 135.85, Entropy = 7.09 bits
-Perplexity = 120.08, Entropy = 6.91 bits
-Perplexity = 115.62, Entropy = 6.85 bits
-Perplexity = 195.73, Entropy = 7.61 bits
-Perplexity = 80.49, Entropy = 6.33 bits
-Perplexity = 133.76, Entropy = 7.06 bits
-Perplexity = 124.54, Entropy = 6.96 bits
-Perplexity = 118.91, Entropy = 6.89 bits
-Perplexity = 119.80, Entropy = 6.90 bits
-Perplexity = 135.88, Entropy = 7.09 bits
-Perplexity = 109.16, Entropy = 6.77 bits
-Perplexity = 125.72, Entropy = 6.97 bits
-Perplexity = 114.09, Entropy = 6.83 bits
-Perplexity = 82.04, Entropy = 6.36 bits
-Perplexity = 111.83, Entropy = 6.81 bits
-Perplexity = 164.64, Entropy = 7.36 bits
-Perplexity = 131.49, Entropy = 7.04 bits
-Perplexity = 128.85, Entropy = 7.01 bits
-Perplexity = 153.79, Entropy = 7.26 bits
-Perplexity = 159.62, Entropy = 7.32 bits
-Perplexity = 86.07, Entropy = 6.43 bits
-Perplexity = 129.27, Entropy = 7.01 bits
-Perplexity = 218.60, Entropy = 7.77 bits
-Perplexity = 123.58, Entropy = 6.95 bits
-Perplexity = 98.09, Entropy = 6.62 bits
-Perplexity = 115.21, Entropy = 6.85 bits
-Perplexity = 138.35, Entropy = 7.11 bits
-Perplexity = 121.55, Entropy = 6.93 bits
-Perplexity = 178.30, Entropy = 7.48 bits
-Perplexity = 83.52, Entropy = 6.38 bits
-Perplexity = 131.06, Entropy = 7.03 bits
-Perplexity = 113.52, Entropy = 6.83 bits
-Perplexity = 81.17, Entropy = 6.34 bits
-Perplexity = 140.07, Entropy = 7.13 bits
-Perplexity = 99.68, Entropy = 6.64 bits
-Perplexity = 137.07, Entropy = 7.10 bits
-Perplexity = 109.66, Entropy = 6.78 bits
-Perplexity = 119.59, Entropy = 6.90 bits
-Perplexity = 76.41, Entropy = 6.26 bits
-Perplexity = 131.49, Entropy = 7.04 bits
-Perplexity = 92.41, Entropy = 6.53 bits
-Perplexity = 124.10, Entropy = 6.96 bits
-Perplexity = 85.61, Entropy = 6.42 bits
-Perplexity = 132.93, Entropy = 7.05 bits
-Perplexity = 171.52, Entropy = 7.42 bits
-Perplexity = 117.59, Entropy = 6.88 bits
-Perplexity = 107.68, Entropy = 6.75 bits
-Perplexity = 128.87, Entropy = 7.01 bits
-Perplexity = 115.83, Entropy = 6.86 bits
-Perplexity = 79.37, Entropy = 6.31 bits
-Perplexity = 119.34, Entropy = 6.90 bits
-Perplexity = 160.56, Entropy = 7.33 bits
-Perplexity = 104.89, Entropy = 6.71 bits
-Perplexity = 93.21, Entropy = 6.54 bits
-Perplexity = 109.44, Entropy = 6.77 bits
-Perplexity = 111.02, Entropy = 6.79 bits
-Perplexity = 169.66, Entropy = 7.41 bits
-Perplexity = 159.52, Entropy = 7.32 bits
-Perplexity = 139.21, Entropy = 7.12 bits
-Perplexity = 125.23, Entropy = 6.97 bits
-Perplexity = 189.94, Entropy = 7.57 bits
-Perplexity = 134.51, Entropy = 7.07 bits
-Perplexity = 101.37, Entropy = 6.66 bits
-Perplexity = 161.04, Entropy = 7.33 bits
-Perplexity = 143.65, Entropy = 7.17 bits
-Perplexity = 141.79, Entropy = 7.15 bits
-Perplexity = 111.02, Entropy = 6.79 bits
-Perplexity = 108.31, Entropy = 6.76 bits
-Perplexity = 118.51, Entropy = 6.89 bits
-Perplexity = 105.15, Entropy = 6.72 bits
-Perplexity = 108.18, Entropy = 6.76 bits
-Perplexity = 134.90, Entropy = 7.08 bits
-Perplexity = 48.89, Entropy = 5.61 bits
-Perplexity = 203.34, Entropy = 7.67 bits
-Perplexity = 145.44, Entropy = 7.18 bits
-Perplexity = 58.77, Entropy = 5.88 bits
-Perplexity = 143.18, Entropy = 7.16 bits
-Perplexity = 174.05, Entropy = 7.44 bits
-Perplexity = 126.83, Entropy = 6.99 bits
-Perplexity = 117.55, Entropy = 6.88 bits
-Perplexity = 106.23, Entropy = 6.73 bits
-Perplexity = 193.11, Entropy = 7.59 bits
-Perplexity = 122.82, Entropy = 6.94 bits
-Perplexity = 122.55, Entropy = 6.94 bits
-Perplexity = 111.38, Entropy = 6.80 bits
-Perplexity = 123.61, Entropy = 6.95 bits
-Perplexity = 179.42, Entropy = 7.49 bits
-Perplexity = 161.91, Entropy = 7.34 bits
-Perplexity = 127.57, Entropy = 7.00 bits
-Perplexity = 154.93, Entropy = 7.28 bits
-Perplexity = 126.84, Entropy = 6.99 bits
-Perplexity = 119.55, Entropy = 6.90 bits
-Perplexity = 157.70, Entropy = 7.30 bits
-Perplexity = 143.93, Entropy = 7.17 bits
-Perplexity = 96.75, Entropy = 6.60 bits
-Perplexity = 109.78, Entropy = 6.78 bits
-Perplexity = 115.19, Entropy = 6.85 bits
-Perplexity = 89.96, Entropy = 6.49 bits
-Perplexity = 93.24, Entropy = 6.54 bits
-Perplexity = 123.74, Entropy = 6.95 bits
-Perplexity = 128.72, Entropy = 7.01 bits
-Perplexity = 116.76, Entropy = 6.87 bits
-Perplexity = 96.53, Entropy = 6.59 bits
-Perplexity = 123.84, Entropy = 6.95 bits
-Perplexity = 134.51, Entropy = 7.07 bits
-Perplexity = 147.23, Entropy = 7.20 bits
-Perplexity = 137.17, Entropy = 7.10 bits
-Perplexity = 121.51, Entropy = 6.92 bits
-Perplexity = 139.54, Entropy = 7.12 bits
-Perplexity = 102.63, Entropy = 6.68 bits
-Perplexity = 116.61, Entropy = 6.87 bits
-Perplexity = 114.22, Entropy = 6.84 bits
-Perplexity = 101.68, Entropy = 6.67 bits
-Perplexity = 110.74, Entropy = 6.79 bits
-Perplexity = 119.52, Entropy = 6.90 bits
-Perplexity = 91.17, Entropy = 6.51 bits
-Perplexity = 142.95, Entropy = 7.16 bits
-Perplexity = 170.95, Entropy = 7.42 bits
-Perplexity = 115.00, Entropy = 6.85 bits
-Perplexity = 86.79, Entropy = 6.44 bits
-Perplexity = 92.28, Entropy = 6.53 bits
-Perplexity = 121.83, Entropy = 6.93 bits
-Perplexity = 158.51, Entropy = 7.31 bits
-Perplexity = 137.35, Entropy = 7.10 bits
-Perplexity = 111.82, Entropy = 6.81 bits
-Perplexity = 41.34, Entropy = 5.37 bits
-Perplexity = 118.32, Entropy = 6.89 bits
-Perplexity = 122.98, Entropy = 6.94 bits
-Perplexity = 108.22, Entropy = 6.76 bits
-Perplexity = 128.32, Entropy = 7.00 bits
-Perplexity = 193.97, Entropy = 7.60 bits
-Perplexity = 274.45, Entropy = 8.10 bits
-Perplexity = 165.22, Entropy = 7.37 bits
-Perplexity = 114.08, Entropy = 6.83 bits
-Perplexity = 96.84, Entropy = 6.60 bits
-Perplexity = 116.39, Entropy = 6.86 bits
-Perplexity = 69.33, Entropy = 6.12 bits
-Perplexity = 106.56, Entropy = 6.74 bits
-Perplexity = 137.78, Entropy = 7.11 bits
-Perplexity = 110.13, Entropy = 6.78 bits
-Perplexity = 112.47, Entropy = 6.81 bits
-Perplexity = 156.05, Entropy = 7.29 bits
-Perplexity = 123.25, Entropy = 6.95 bits
-Perplexity = 133.93, Entropy = 7.07 bits
-Perplexity = 165.98, Entropy = 7.37 bits
-Perplexity = 121.96, Entropy = 6.93 bits
-Perplexity = 79.73, Entropy = 6.32 bits
-Perplexity = 88.88, Entropy = 6.47 bits
-Perplexity = 135.42, Entropy = 7.08 bits
-Perplexity = 100.96, Entropy = 6.66 bits
-Perplexity = 120.01, Entropy = 6.91 bits
-Perplexity = 127.25, Entropy = 6.99 bits
-Perplexity = 139.07, Entropy = 7.12 bits
-Perplexity = 132.81, Entropy = 7.05 bits
-Perplexity = 161.31, Entropy = 7.33 bits
-Perplexity = 147.73, Entropy = 7.21 bits
-Perplexity = 119.04, Entropy = 6.90 bits
-Perplexity = 278.05, Entropy = 8.12 bits
-Perplexity = 104.30, Entropy = 6.70 bits
-Perplexity = 122.91, Entropy = 6.94 bits
-Perplexity = 126.92, Entropy = 6.99 bits
-Perplexity = 84.73, Entropy = 6.40 bits
-Perplexity = 174.60, Entropy = 7.45 bits
-Perplexity = 97.54, Entropy = 6.61 bits
-Perplexity = 128.26, Entropy = 7.00 bits
-Perplexity = 81.38, Entropy = 6.35 bits
-Perplexity = 88.52, Entropy = 6.47 bits
-Perplexity = 114.69, Entropy = 6.84 bits
-Perplexity = 112.63, Entropy = 6.82 bits
-Perplexity = 128.67, Entropy = 7.01 bits
-Perplexity = 264.09, Entropy = 8.04 bits
-Perplexity = 102.65, Entropy = 6.68 bits
-Perplexity = 137.99, Entropy = 7.11 bits
-Perplexity = 75.61, Entropy = 6.24 bits
-Perplexity = 129.97, Entropy = 7.02 bits
-Perplexity = 152.30, Entropy = 7.25 bits
-Perplexity = 123.45, Entropy = 6.95 bits
-Perplexity = 90.78, Entropy = 6.50 bits
-Perplexity = 111.75, Entropy = 6.80 bits
-Perplexity = 129.20, Entropy = 7.01 bits
-Perplexity = 93.83, Entropy = 6.55 bits
-Perplexity = 108.52, Entropy = 6.76 bits
-Perplexity = 133.06, Entropy = 7.06 bits
-Perplexity = 124.29, Entropy = 6.96 bits
-Perplexity = 123.51, Entropy = 6.95 bits
-Perplexity = 180.89, Entropy = 7.50 bits
-Perplexity = 175.77, Entropy = 7.46 bits
-Perplexity = 83.85, Entropy = 6.39 bits
-Perplexity = 77.49, Entropy = 6.28 bits
-Perplexity = 98.03, Entropy = 6.62 bits
-Perplexity = 120.34, Entropy = 6.91 bits
-Perplexity = 142.21, Entropy = 7.15 bits
-Perplexity = 117.83, Entropy = 6.88 bits
-Perplexity = 132.80, Entropy = 7.05 bits
-Perplexity = 109.61, Entropy = 6.78 bits
-Perplexity = 103.88, Entropy = 6.70 bits
-Perplexity = 117.05, Entropy = 6.87 bits
-Perplexity = 144.35, Entropy = 7.17 bits
-Perplexity = 90.84, Entropy = 6.51 bits
-Perplexity = 112.92, Entropy = 6.82 bits
-Perplexity = 77.82, Entropy = 6.28 bits
-Perplexity = 84.17, Entropy = 6.40 bits
-Perplexity = 153.10, Entropy = 7.26 bits
-Perplexity = 100.77, Entropy = 6.65 bits
-Perplexity = 105.97, Entropy = 6.73 bits
-Perplexity = 77.08, Entropy = 6.27 bits
-Perplexity = 97.07, Entropy = 6.60 bits
-Perplexity = 164.09, Entropy = 7.36 bits
-Perplexity = 85.45, Entropy = 6.42 bits
-Perplexity = 151.57, Entropy = 7.24 bits
-Perplexity = 157.07, Entropy = 7.30 bits
-Perplexity = 176.05, Entropy = 7.46 bits
-Perplexity = 113.93, Entropy = 6.83 bits
-Perplexity = 96.57, Entropy = 6.59 bits
-Perplexity = 124.08, Entropy = 6.96 bits
-Perplexity = 143.43, Entropy = 7.16 bits
-Perplexity = 77.48, Entropy = 6.28 bits
-Perplexity = 139.08, Entropy = 7.12 bits
-Perplexity = 100.65, Entropy = 6.65 bits
-Perplexity = 178.58, Entropy = 7.48 bits
-Perplexity = 237.71, Entropy = 7.89 bits
-Perplexity = 143.57, Entropy = 7.17 bits
-Perplexity = 110.07, Entropy = 6.78 bits
-Perplexity = 125.23, Entropy = 6.97 bits
-Perplexity = 113.34, Entropy = 6.82 bits
-Perplexity = 135.18, Entropy = 7.08 bits
-Perplexity = 166.77, Entropy = 7.38 bits
-Perplexity = 100.56, Entropy = 6.65 bits
-Perplexity = 138.55, Entropy = 7.11 bits
-Perplexity = 147.73, Entropy = 7.21 bits
-Perplexity = 77.11, Entropy = 6.27 bits
-Perplexity = 162.37, Entropy = 7.34 bits
-Perplexity = 131.86, Entropy = 7.04 bits
-Perplexity = 131.18, Entropy = 7.04 bits
-Perplexity = 118.81, Entropy = 6.89 bits
-Perplexity = 198.24, Entropy = 7.63 bits
-Perplexity = 159.26, Entropy = 7.32 bits
-Perplexity = 133.74, Entropy = 7.06 bits
-Perplexity = 100.37, Entropy = 6.65 bits
-Perplexity = 163.01, Entropy = 7.35 bits
-Perplexity = 106.49, Entropy = 6.73 bits
-Perplexity = 193.19, Entropy = 7.59 bits
-Perplexity = 117.35, Entropy = 6.87 bits
-Perplexity = 110.93, Entropy = 6.79 bits
-Perplexity = 110.87, Entropy = 6.79 bits
-Perplexity = 91.06, Entropy = 6.51 bits
-Perplexity = 81.68, Entropy = 6.35 bits
-Perplexity = 116.11, Entropy = 6.86 bits
-Perplexity = 105.12, Entropy = 6.72 bits
-Perplexity = 132.57, Entropy = 7.05 bits
-Perplexity = 139.35, Entropy = 7.12 bits
-Perplexity = 89.78, Entropy = 6.49 bits
-Perplexity = 118.19, Entropy = 6.88 bits
-Perplexity = 93.25, Entropy = 6.54 bits
-Perplexity = 129.48, Entropy = 7.02 bits
-Perplexity = 147.51, Entropy = 7.20 bits
-Perplexity = 126.84, Entropy = 6.99 bits
-Perplexity = 117.48, Entropy = 6.88 bits
-Perplexity = 78.22, Entropy = 6.29 bits
-Perplexity = 99.61, Entropy = 6.64 bits
-Perplexity = 108.71, Entropy = 6.76 bits
-Perplexity = 123.60, Entropy = 6.95 bits
-Perplexity = 117.82, Entropy = 6.88 bits
-Perplexity = 141.55, Entropy = 7.15 bits
-Perplexity = 121.48, Entropy = 6.92 bits
-Perplexity = 102.34, Entropy = 6.68 bits
-Perplexity = 171.63, Entropy = 7.42 bits
-Perplexity = 113.91, Entropy = 6.83 bits
-Perplexity = 129.85, Entropy = 7.02 bits
-Perplexity = 116.43, Entropy = 6.86 bits
-Perplexity = 122.62, Entropy = 6.94 bits
-Perplexity = 161.41, Entropy = 7.33 bits
-Perplexity = 185.75, Entropy = 7.54 bits
-Perplexity = 77.97, Entropy = 6.28 bits
-Perplexity = 181.70, Entropy = 7.51 bits
-Perplexity = 112.68, Entropy = 6.82 bits
-Perplexity = 113.48, Entropy = 6.83 bits
-Perplexity = 119.91, Entropy = 6.91 bits
-Perplexity = 103.65, Entropy = 6.70 bits
-Perplexity = 121.61, Entropy = 6.93 bits
-Perplexity = 105.48, Entropy = 6.72 bits
-Perplexity = 103.24, Entropy = 6.69 bits
-Perplexity = 183.07, Entropy = 7.52 bits
-Perplexity = 74.28, Entropy = 6.21 bits
-Perplexity = 263.35, Entropy = 8.04 bits
-Perplexity = 112.41, Entropy = 6.81 bits
-Perplexity = 111.00, Entropy = 6.79 bits
-Perplexity = 117.82, Entropy = 6.88 bits
-Perplexity = 105.51, Entropy = 6.72 bits
-Perplexity = 111.41, Entropy = 6.80 bits
-Perplexity = 115.96, Entropy = 6.86 bits
-Perplexity = 75.77, Entropy = 6.24 bits
-Perplexity = 116.94, Entropy = 6.87 bits
-Perplexity = 141.33, Entropy = 7.14 bits
-Perplexity = 218.69, Entropy = 7.77 bits
-Perplexity = 105.22, Entropy = 6.72 bits
-Perplexity = 143.90, Entropy = 7.17 bits
-Perplexity = 109.97, Entropy = 6.78 bits
-Perplexity = 120.97, Entropy = 6.92 bits
-Perplexity = 113.84, Entropy = 6.83 bits
-Perplexity = 134.53, Entropy = 7.07 bits
-Perplexity = 97.88, Entropy = 6.61 bits
-Perplexity = 108.74, Entropy = 6.76 bits
-Perplexity = 113.88, Entropy = 6.83 bits
-Perplexity = 111.99, Entropy = 6.81 bits
-Perplexity = 136.25, Entropy = 7.09 bits
-Perplexity = 104.61, Entropy = 6.71 bits
-Perplexity = 103.03, Entropy = 6.69 bits
-Perplexity = 108.68, Entropy = 6.76 bits
-Perplexity = 117.23, Entropy = 6.87 bits
-Perplexity = 165.20, Entropy = 7.37 bits
-Perplexity = 99.86, Entropy = 6.64 bits
-Perplexity = 64.53, Entropy = 6.01 bits
-Perplexity = 121.70, Entropy = 6.93 bits
-Perplexity = 127.61, Entropy = 7.00 bits
-Perplexity = 121.00, Entropy = 6.92 bits
-Perplexity = 151.23, Entropy = 7.24 bits
-Perplexity = 150.12, Entropy = 7.23 bits
-Perplexity = 92.40, Entropy = 6.53 bits
-Perplexity = 108.61, Entropy = 6.76 bits
-Perplexity = 99.78, Entropy = 6.64 bits
-Perplexity = 173.15, Entropy = 7.44 bits
-Perplexity = 120.68, Entropy = 6.92 bits
-Perplexity = 130.82, Entropy = 7.03 bits
-Perplexity = 128.97, Entropy = 7.01 bits
-Perplexity = 122.48, Entropy = 6.94 bits
-Perplexity = 129.07, Entropy = 7.01 bits
-Perplexity = 99.41, Entropy = 6.64 bits
-Perplexity = 65.90, Entropy = 6.04 bits
-Perplexity = 112.37, Entropy = 6.81 bits
-Perplexity = 114.05, Entropy = 6.83 bits
-Perplexity = 188.35, Entropy = 7.56 bits
-Perplexity = 164.95, Entropy = 7.37 bits
-Perplexity = 91.73, Entropy = 6.52 bits
-Perplexity = 114.33, Entropy = 6.84 bits
-Perplexity = 121.40, Entropy = 6.92 bits
-Perplexity = 124.87, Entropy = 6.96 bits
-Perplexity = 101.34, Entropy = 6.66 bits
-Perplexity = 85.24, Entropy = 6.41 bits
-Perplexity = 169.85, Entropy = 7.41 bits
-Perplexity = 110.75, Entropy = 6.79 bits
-Perplexity = 115.76, Entropy = 6.85 bits
-Perplexity = 99.18, Entropy = 6.63 bits
-Perplexity = 81.34, Entropy = 6.35 bits
-Perplexity = 168.65, Entropy = 7.40 bits
-Perplexity = 109.49, Entropy = 6.77 bits
-Perplexity = 143.51, Entropy = 7.17 bits
-Perplexity = 92.86, Entropy = 6.54 bits
-Perplexity = 177.00, Entropy = 7.47 bits
-Perplexity = 106.26, Entropy = 6.73 bits
-Perplexity = 82.53, Entropy = 6.37 bits
-Perplexity = 109.87, Entropy = 6.78 bits
-Perplexity = 128.52, Entropy = 7.01 bits
-Perplexity = 119.84, Entropy = 6.90 bits
-Perplexity = 147.56, Entropy = 7.21 bits
-Perplexity = 173.11, Entropy = 7.44 bits
-Perplexity = 97.90, Entropy = 6.61 bits
-Perplexity = 169.33, Entropy = 7.40 bits
-Perplexity = 75.85, Entropy = 6.25 bits
-Perplexity = 126.92, Entropy = 6.99 bits
-Perplexity = 104.25, Entropy = 6.70 bits
-Perplexity = 93.50, Entropy = 6.55 bits
-Perplexity = 121.27, Entropy = 6.92 bits
-Perplexity = 113.19, Entropy = 6.82 bits
-Perplexity = 77.02, Entropy = 6.27 bits
-Perplexity = 99.60, Entropy = 6.64 bits
-Perplexity = 107.31, Entropy = 6.75 bits
-Perplexity = 99.87, Entropy = 6.64 bits
-Perplexity = 111.13, Entropy = 6.80 bits
-Perplexity = 123.83, Entropy = 6.95 bits
-Perplexity = 130.31, Entropy = 7.03 bits
-Perplexity = 91.15, Entropy = 6.51 bits
-Perplexity = 156.74, Entropy = 7.29 bits
-Perplexity = 131.27, Entropy = 7.04 bits
-Perplexity = 114.03, Entropy = 6.83 bits
-Perplexity = 113.50, Entropy = 6.83 bits
-Perplexity = 147.83, Entropy = 7.21 bits
-Perplexity = 117.60, Entropy = 6.88 bits
-Perplexity = 147.74, Entropy = 7.21 bits
-Perplexity = 161.66, Entropy = 7.34 bits
-Perplexity = 155.73, Entropy = 7.28 bits
-Perplexity = 71.02, Entropy = 6.15 bits
-Perplexity = 106.14, Entropy = 6.73 bits
-Perplexity = 100.64, Entropy = 6.65 bits
-Perplexity = 132.84, Entropy = 7.05 bits
-Perplexity = 135.94, Entropy = 7.09 bits
-Perplexity = 215.21, Entropy = 7.75 bits
-Perplexity = 122.12, Entropy = 6.93 bits
-Perplexity = 176.14, Entropy = 7.46 bits
-Perplexity = 95.25, Entropy = 6.57 bits
-Perplexity = 102.83, Entropy = 6.68 bits
-Perplexity = 127.24, Entropy = 6.99 bits
-Perplexity = 146.04, Entropy = 7.19 bits
-Perplexity = 113.55, Entropy = 6.83 bits
-Perplexity = 147.43, Entropy = 7.20 bits
-Perplexity = 113.24, Entropy = 6.82 bits
-Perplexity = 107.44, Entropy = 6.75 bits
-Perplexity = 139.49, Entropy = 7.12 bits
-Perplexity = 106.52, Entropy = 6.73 bits
-Perplexity = 76.40, Entropy = 6.26 bits
-Perplexity = 134.66, Entropy = 7.07 bits
-Perplexity = 242.28, Entropy = 7.92 bits
-Perplexity = 150.82, Entropy = 7.24 bits
-Perplexity = 119.22, Entropy = 6.90 bits
-Perplexity = 107.95, Entropy = 6.75 bits
-Perplexity = 84.06, Entropy = 6.39 bits
-Perplexity = 119.65, Entropy = 6.90 bits
-Perplexity = 122.03, Entropy = 6.93 bits
-Perplexity = 137.93, Entropy = 7.11 bits
-Perplexity = 207.17, Entropy = 7.69 bits
-Perplexity = 160.07, Entropy = 7.32 bits
-Perplexity = 119.50, Entropy = 6.90 bits
-Perplexity = 198.32, Entropy = 7.63 bits
-Perplexity = 124.76, Entropy = 6.96 bits
-Perplexity = 134.63, Entropy = 7.07 bits
-Perplexity = 111.83, Entropy = 6.81 bits
-Perplexity = 103.45, Entropy = 6.69 bits
-Perplexity = 137.86, Entropy = 7.11 bits
-Perplexity = 143.61, Entropy = 7.17 bits
-Perplexity = 116.62, Entropy = 6.87 bits
-Perplexity = 120.54, Entropy = 6.91 bits
-Perplexity = 149.08, Entropy = 7.22 bits
-Perplexity = 166.58, Entropy = 7.38 bits
-Perplexity = 79.76, Entropy = 6.32 bits
-Perplexity = 68.53, Entropy = 6.10 bits
-Perplexity = 121.81, Entropy = 6.93 bits
-Perplexity = 89.76, Entropy = 6.49 bits
-Perplexity = 151.96, Entropy = 7.25 bits
-Perplexity = 117.68, Entropy = 6.88 bits
-Perplexity = 171.52, Entropy = 7.42 bits
-Perplexity = 84.07, Entropy = 6.39 bits
-Perplexity = 172.15, Entropy = 7.43 bits
-Perplexity = 97.98, Entropy = 6.61 bits
-Perplexity = 135.33, Entropy = 7.08 bits
-Perplexity = 118.86, Entropy = 6.89 bits
-Perplexity = 99.64, Entropy = 6.64 bits
-Perplexity = 105.32, Entropy = 6.72 bits
-Perplexity = 162.62, Entropy = 7.35 bits
-Perplexity = 103.54, Entropy = 6.69 bits
-Perplexity = 119.71, Entropy = 6.90 bits
-Perplexity = 138.41, Entropy = 7.11 bits
-Perplexity = 121.02, Entropy = 6.92 bits
-Perplexity = 111.30, Entropy = 6.80 bits
-Perplexity = 122.78, Entropy = 6.94 bits
-Perplexity = 126.49, Entropy = 6.98 bits
-Perplexity = 152.38, Entropy = 7.25 bits
-Perplexity = 109.19, Entropy = 6.77 bits
-Perplexity = 138.26, Entropy = 7.11 bits
-Perplexity = 124.65, Entropy = 6.96 bits
-Perplexity = 82.53, Entropy = 6.37 bits
-Perplexity = 87.71, Entropy = 6.45 bits
-Perplexity = 202.11, Entropy = 7.66 bits
-Perplexity = 97.19, Entropy = 6.60 bits
-Perplexity = 103.53, Entropy = 6.69 bits
-Perplexity = 127.23, Entropy = 6.99 bits
-Perplexity = 139.41, Entropy = 7.12 bits
-Perplexity = 88.01, Entropy = 6.46 bits
-Perplexity = 150.43, Entropy = 7.23 bits
-Perplexity = 84.72, Entropy = 6.40 bits
-Perplexity = 179.53, Entropy = 7.49 bits
-Perplexity = 154.59, Entropy = 7.27 bits
-Perplexity = 102.91, Entropy = 6.69 bits
-Perplexity = 137.50, Entropy = 7.10 bits
-Perplexity = 176.50, Entropy = 7.46 bits
-Perplexity = 117.64, Entropy = 6.88 bits
-Perplexity = 166.93, Entropy = 7.38 bits
-Perplexity = 113.49, Entropy = 6.83 bits
-Perplexity = 85.70, Entropy = 6.42 bits
-Perplexity = 132.51, Entropy = 7.05 bits
-Perplexity = 84.31, Entropy = 6.40 bits
-Perplexity = 95.20, Entropy = 6.57 bits
-Perplexity = 125.33, Entropy = 6.97 bits
-Perplexity = 199.23, Entropy = 7.64 bits
-Perplexity = 83.15, Entropy = 6.38 bits
-Perplexity = 103.03, Entropy = 6.69 bits
-Perplexity = 207.90, Entropy = 7.70 bits
-Perplexity = 74.75, Entropy = 6.22 bits
-Perplexity = 187.31, Entropy = 7.55 bits
-Perplexity = 98.39, Entropy = 6.62 bits
-Perplexity = 87.50, Entropy = 6.45 bits
-Perplexity = 108.75, Entropy = 6.76 bits
-Perplexity = 130.70, Entropy = 7.03 bits
-Perplexity = 92.97, Entropy = 6.54 bits
-Perplexity = 155.27, Entropy = 7.28 bits
-Perplexity = 79.24, Entropy = 6.31 bits
-Perplexity = 116.09, Entropy = 6.86 bits
-Perplexity = 118.35, Entropy = 6.89 bits
-Perplexity = 110.09, Entropy = 6.78 bits
-Perplexity = 141.71, Entropy = 7.15 bits
-Perplexity = 160.14, Entropy = 7.32 bits
-Perplexity = 125.24, Entropy = 6.97 bits
-Perplexity = 132.86, Entropy = 7.05 bits
-Perplexity = 136.21, Entropy = 7.09 bits
-Perplexity = 116.63, Entropy = 6.87 bits
-Perplexity = 118.14, Entropy = 6.88 bits
-Perplexity = 141.06, Entropy = 7.14 bits
-Perplexity = 121.09, Entropy = 6.92 bits
-Perplexity = 125.88, Entropy = 6.98 bits
-Perplexity = 185.06, Entropy = 7.53 bits
-Perplexity = 112.15, Entropy = 6.81 bits
-Perplexity = 123.86, Entropy = 6.95 bits
-Perplexity = 87.65, Entropy = 6.45 bits
-Perplexity = 76.20, Entropy = 6.25 bits
-Perplexity = 141.05, Entropy = 7.14 bits
-Perplexity = 117.29, Entropy = 6.87 bits
-Perplexity = 101.22, Entropy = 6.66 bits
-Perplexity = 63.02, Entropy = 5.98 bits
-Perplexity = 105.42, Entropy = 6.72 bits
-Perplexity = 132.47, Entropy = 7.05 bits
-Perplexity = 101.97, Entropy = 6.67 bits
-Perplexity = 123.21, Entropy = 6.95 bits
-Perplexity = 111.63, Entropy = 6.80 bits
-Perplexity = 128.85, Entropy = 7.01 bits
-Perplexity = 123.40, Entropy = 6.95 bits
-Perplexity = 134.49, Entropy = 7.07 bits
-Perplexity = 130.99, Entropy = 7.03 bits
-Perplexity = 62.10, Entropy = 5.96 bits
-Perplexity = 127.65, Entropy = 7.00 bits
-Perplexity = 117.57, Entropy = 6.88 bits
-Perplexity = 128.13, Entropy = 7.00 bits
-Perplexity = 81.43, Entropy = 6.35 bits
-Perplexity = 106.36, Entropy = 6.73 bits
-Perplexity = 115.18, Entropy = 6.85 bits
-Perplexity = 105.55, Entropy = 6.72 bits
-Perplexity = 122.07, Entropy = 6.93 bits
-Perplexity = 98.34, Entropy = 6.62 bits
-Perplexity = 119.35, Entropy = 6.90 bits
-Perplexity = 117.01, Entropy = 6.87 bits
-Perplexity = 72.64, Entropy = 6.18 bits
-Perplexity = 98.64, Entropy = 6.62 bits
-Perplexity = 75.97, Entropy = 6.25 bits
-Perplexity = 102.43, Entropy = 6.68 bits
-Perplexity = 95.65, Entropy = 6.58 bits
-Perplexity = 86.15, Entropy = 6.43 bits
-Perplexity = 122.16, Entropy = 6.93 bits
-Perplexity = 118.93, Entropy = 6.89 bits
-Perplexity = 120.22, Entropy = 6.91 bits
-Perplexity = 75.84, Entropy = 6.24 bits
-Perplexity = 145.81, Entropy = 7.19 bits
-Perplexity = 118.68, Entropy = 6.89 bits
-Perplexity = 129.92, Entropy = 7.02 bits
-Perplexity = 117.73, Entropy = 6.88 bits
-Perplexity = 117.35, Entropy = 6.87 bits
-Perplexity = 204.63, Entropy = 7.68 bits
-Perplexity = 110.01, Entropy = 6.78 bits
-Perplexity = 134.68, Entropy = 7.07 bits
-Perplexity = 124.87, Entropy = 6.96 bits
-Perplexity = 120.39, Entropy = 6.91 bits
-Perplexity = 147.32, Entropy = 7.20 bits
-Perplexity = 117.70, Entropy = 6.88 bits
-Perplexity = 57.01, Entropy = 5.83 bits
-Perplexity = 149.06, Entropy = 7.22 bits
-Perplexity = 186.27, Entropy = 7.54 bits
-Perplexity = 104.08, Entropy = 6.70 bits
-Perplexity = 182.22, Entropy = 7.51 bits
-Perplexity = 137.03, Entropy = 7.10 bits
-Perplexity = 86.79, Entropy = 6.44 bits
-Perplexity = 148.89, Entropy = 7.22 bits
-Perplexity = 91.28, Entropy = 6.51 bits
-Perplexity = 122.56, Entropy = 6.94 bits
-Perplexity = 118.27, Entropy = 6.89 bits
-Perplexity = 93.46, Entropy = 6.55 bits
-Perplexity = 128.03, Entropy = 7.00 bits
-Perplexity = 153.99, Entropy = 7.27 bits
-Perplexity = 98.42, Entropy = 6.62 bits
-Perplexity = 123.43, Entropy = 6.95 bits
-Perplexity = 140.31, Entropy = 7.13 bits
-Perplexity = 126.87, Entropy = 6.99 bits
-Perplexity = 75.04, Entropy = 6.23 bits
-Perplexity = 114.73, Entropy = 6.84 bits
-Perplexity = 125.19, Entropy = 6.97 bits
-Perplexity = 121.89, Entropy = 6.93 bits
-Perplexity = 170.41, Entropy = 7.41 bits
-Perplexity = 115.24, Entropy = 6.85 bits
-Perplexity = 116.19, Entropy = 6.86 bits
-Perplexity = 110.64, Entropy = 6.79 bits
-Perplexity = 119.37, Entropy = 6.90 bits
-Perplexity = 112.29, Entropy = 6.81 bits
-Perplexity = 184.35, Entropy = 7.53 bits
-Perplexity = 168.70, Entropy = 7.40 bits
-Perplexity = 94.03, Entropy = 6.56 bits
-Perplexity = 110.16, Entropy = 6.78 bits
-Perplexity = 139.36, Entropy = 7.12 bits
-Perplexity = 91.81, Entropy = 6.52 bits
-Perplexity = 89.88, Entropy = 6.49 bits
-Perplexity = 120.82, Entropy = 6.92 bits
-Perplexity = 68.99, Entropy = 6.11 bits
-Perplexity = 122.46, Entropy = 6.94 bits
-Perplexity = 151.34, Entropy = 7.24 bits
-Perplexity = 112.81, Entropy = 6.82 bits
-Perplexity = 93.17, Entropy = 6.54 bits
-Perplexity = 120.46, Entropy = 6.91 bits
-Perplexity = 129.20, Entropy = 7.01 bits
-Perplexity = 139.92, Entropy = 7.13 bits
-Perplexity = 144.12, Entropy = 7.17 bits
-Perplexity = 123.11, Entropy = 6.94 bits
-Perplexity = 110.89, Entropy = 6.79 bits
-Perplexity = 99.00, Entropy = 6.63 bits
-Perplexity = 120.67, Entropy = 6.91 bits
-Perplexity = 139.96, Entropy = 7.13 bits
-Perplexity = 88.07, Entropy = 6.46 bits
-Perplexity = 143.95, Entropy = 7.17 bits
-Perplexity = 132.29, Entropy = 7.05 bits
-Perplexity = 101.41, Entropy = 6.66 bits
-Perplexity = 118.67, Entropy = 6.89 bits
-Perplexity = 157.20, Entropy = 7.30 bits
-Perplexity = 116.47, Entropy = 6.86 bits
-Perplexity = 127.46, Entropy = 6.99 bits
-Perplexity = 257.06, Entropy = 8.01 bits
-Perplexity = 113.16, Entropy = 6.82 bits
-Perplexity = 78.30, Entropy = 6.29 bits
-Perplexity = 113.36, Entropy = 6.82 bits
-Perplexity = 107.27, Entropy = 6.75 bits
-Perplexity = 116.67, Entropy = 6.87 bits
-Perplexity = 145.10, Entropy = 7.18 bits
-Perplexity = 132.78, Entropy = 7.05 bits
-Perplexity = 112.21, Entropy = 6.81 bits
-Perplexity = 131.14, Entropy = 7.04 bits
-Perplexity = 186.33, Entropy = 7.54 bits
-Perplexity = 172.42, Entropy = 7.43 bits
-Perplexity = 125.40, Entropy = 6.97 bits
-Perplexity = 128.91, Entropy = 7.01 bits
-Perplexity = 146.91, Entropy = 7.20 bits
-Perplexity = 208.63, Entropy = 7.70 bits
-Perplexity = 124.64, Entropy = 6.96 bits
-Perplexity = 158.55, Entropy = 7.31 bits
-Perplexity = 113.89, Entropy = 6.83 bits
-Perplexity = 98.66, Entropy = 6.62 bits
-Perplexity = 129.29, Entropy = 7.01 bits
-Perplexity = 93.70, Entropy = 6.55 bits
-Perplexity = 145.45, Entropy = 7.18 bits
-Perplexity = 119.32, Entropy = 6.90 bits
-Perplexity = 118.83, Entropy = 6.89 bits
-Perplexity = 108.65, Entropy = 6.76 bits
-Perplexity = 135.59, Entropy = 7.08 bits
-Perplexity = 105.52, Entropy = 6.72 bits
-Perplexity = 113.04, Entropy = 6.82 bits
-Perplexity = 170.01, Entropy = 7.41 bits
-Perplexity = 90.47, Entropy = 6.50 bits
-Perplexity = 126.55, Entropy = 6.98 bits
-Perplexity = 191.86, Entropy = 7.58 bits
-Perplexity = 133.13, Entropy = 7.06 bits
-Perplexity = 113.95, Entropy = 6.83 bits
-Perplexity = 166.07, Entropy = 7.38 bits
-Perplexity = 117.59, Entropy = 6.88 bits
-Perplexity = 156.24, Entropy = 7.29 bits
-Perplexity = 93.38, Entropy = 6.55 bits
-Perplexity = 71.18, Entropy = 6.15 bits
-Perplexity = 120.09, Entropy = 6.91 bits
-Perplexity = 97.64, Entropy = 6.61 bits
-Perplexity = 196.71, Entropy = 7.62 bits
-Perplexity = 108.87, Entropy = 6.77 bits
-Perplexity = 146.38, Entropy = 7.19 bits
-Perplexity = 81.65, Entropy = 6.35 bits
-Perplexity = 135.82, Entropy = 7.09 bits
-Perplexity = 120.96, Entropy = 6.92 bits
-Perplexity = 85.15, Entropy = 6.41 bits
-Perplexity = 147.99, Entropy = 7.21 bits
-Perplexity = 194.13, Entropy = 7.60 bits
-Perplexity = 148.03, Entropy = 7.21 bits
-Perplexity = 116.43, Entropy = 6.86 bits
-Perplexity = 91.23, Entropy = 6.51 bits
-Perplexity = 110.12, Entropy = 6.78 bits
-Perplexity = 55.35, Entropy = 5.79 bits
-Perplexity = 151.89, Entropy = 7.25 bits
-Perplexity = 104.21, Entropy = 6.70 bits
-Perplexity = 117.91, Entropy = 6.88 bits
-Perplexity = 100.81, Entropy = 6.66 bits
-Perplexity = 111.44, Entropy = 6.80 bits
-Perplexity = 86.74, Entropy = 6.44 bits
-Perplexity = 108.00, Entropy = 6.75 bits
-Perplexity = 124.69, Entropy = 6.96 bits
-Perplexity = 150.59, Entropy = 7.23 bits
-Perplexity = 112.45, Entropy = 6.81 bits
-Perplexity = 133.33, Entropy = 7.06 bits
-Perplexity = 76.84, Entropy = 6.26 bits
-Perplexity = 146.71, Entropy = 7.20 bits
-Perplexity = 87.87, Entropy = 6.46 bits
-Perplexity = 126.52, Entropy = 6.98 bits
-Perplexity = 93.64, Entropy = 6.55 bits
-Perplexity = 108.46, Entropy = 6.76 bits
-Perplexity = 174.53, Entropy = 7.45 bits
-Perplexity = 154.21, Entropy = 7.27 bits
-Perplexity = 108.97, Entropy = 6.77 bits
-Perplexity = 94.02, Entropy = 6.55 bits
-Perplexity = 58.05, Entropy = 5.86 bits
-Perplexity = 133.44, Entropy = 7.06 bits
-Perplexity = 126.09, Entropy = 6.98 bits
-Perplexity = 102.33, Entropy = 6.68 bits
-Perplexity = 125.25, Entropy = 6.97 bits
-Perplexity = 84.00, Entropy = 6.39 bits
-Perplexity = 80.24, Entropy = 6.33 bits
-Perplexity = 90.35, Entropy = 6.50 bits
-Perplexity = 95.22, Entropy = 6.57 bits
-Perplexity = 117.89, Entropy = 6.88 bits
-Perplexity = 101.62, Entropy = 6.67 bits
-Perplexity = 88.72, Entropy = 6.47 bits
-Perplexity = 90.17, Entropy = 6.49 bits
-Perplexity = 117.00, Entropy = 6.87 bits
-Perplexity = 118.27, Entropy = 6.89 bits
-Perplexity = 106.95, Entropy = 6.74 bits
-Perplexity = 108.57, Entropy = 6.76 bits
-Perplexity = 60.05, Entropy = 5.91 bits
-Perplexity = 200.26, Entropy = 7.65 bits
-Perplexity = 65.81, Entropy = 6.04 bits
-Perplexity = 119.73, Entropy = 6.90 bits
-Perplexity = 144.18, Entropy = 7.17 bits
-Perplexity = 114.74, Entropy = 6.84 bits
-Perplexity = 122.29, Entropy = 6.93 bits
-Perplexity = 121.57, Entropy = 6.93 bits
-Perplexity = 176.95, Entropy = 7.47 bits
-Perplexity = 161.22, Entropy = 7.33 bits
-Perplexity = 139.58, Entropy = 7.12 bits
-Perplexity = 83.43, Entropy = 6.38 bits
-Perplexity = 105.04, Entropy = 6.71 bits
-Perplexity = 136.43, Entropy = 7.09 bits
-Perplexity = 112.06, Entropy = 6.81 bits
-Perplexity = 88.20, Entropy = 6.46 bits
-Perplexity = 163.80, Entropy = 7.36 bits
-Perplexity = 95.48, Entropy = 6.58 bits
-Perplexity = 179.54, Entropy = 7.49 bits
-Perplexity = 124.87, Entropy = 6.96 bits
-Perplexity = 127.26, Entropy = 6.99 bits
-Perplexity = 81.91, Entropy = 6.36 bits
-Perplexity = 138.54, Entropy = 7.11 bits
-Perplexity = 115.85, Entropy = 6.86 bits
-Perplexity = 105.94, Entropy = 6.73 bits
-Perplexity = 124.35, Entropy = 6.96 bits
-Perplexity = 82.16, Entropy = 6.36 bits
-Perplexity = 161.98, Entropy = 7.34 bits
-Perplexity = 69.87, Entropy = 6.13 bits
-Perplexity = 119.69, Entropy = 6.90 bits
-Perplexity = 72.25, Entropy = 6.17 bits
-Perplexity = 111.90, Entropy = 6.81 bits
-Perplexity = 155.43, Entropy = 7.28 bits
-Perplexity = 120.70, Entropy = 6.92 bits
-Perplexity = 143.56, Entropy = 7.17 bits
-Perplexity = 66.62, Entropy = 6.06 bits
-Perplexity = 128.12, Entropy = 7.00 bits
-Perplexity = 134.10, Entropy = 7.07 bits
-Perplexity = 135.82, Entropy = 7.09 bits
-Perplexity = 129.73, Entropy = 7.02 bits
-Perplexity = 99.79, Entropy = 6.64 bits
-Perplexity = 203.37, Entropy = 7.67 bits
-Perplexity = 121.18, Entropy = 6.92 bits
-Perplexity = 161.45, Entropy = 7.33 bits
-Perplexity = 144.79, Entropy = 7.18 bits
-Perplexity = 127.27, Entropy = 6.99 bits
-Perplexity = 93.13, Entropy = 6.54 bits
-Perplexity = 112.13, Entropy = 6.81 bits
-Perplexity = 113.65, Entropy = 6.83 bits
-Perplexity = 135.19, Entropy = 7.08 bits
-Perplexity = 86.66, Entropy = 6.44 bits
-Perplexity = 161.17, Entropy = 7.33 bits
-Perplexity = 128.50, Entropy = 7.01 bits
-Perplexity = 110.26, Entropy = 6.78 bits
-Perplexity = 119.00, Entropy = 6.89 bits
-Perplexity = 111.69, Entropy = 6.80 bits
-Perplexity = 107.66, Entropy = 6.75 bits
-Perplexity = 106.53, Entropy = 6.74 bits
-Perplexity = 116.59, Entropy = 6.87 bits
-Perplexity = 119.39, Entropy = 6.90 bits
-Perplexity = 106.66, Entropy = 6.74 bits
-Perplexity = 110.81, Entropy = 6.79 bits
-Perplexity = 66.29, Entropy = 6.05 bits
-Perplexity = 108.07, Entropy = 6.76 bits
-Perplexity = 119.96, Entropy = 6.91 bits
-Perplexity = 136.05, Entropy = 7.09 bits
-Perplexity = 143.11, Entropy = 7.16 bits
-Perplexity = 117.97, Entropy = 6.88 bits
-Perplexity = 118.48, Entropy = 6.89 bits
-Perplexity = 88.20, Entropy = 6.46 bits
-Perplexity = 106.78, Entropy = 6.74 bits
-Perplexity = 129.67, Entropy = 7.02 bits
-Perplexity = 77.03, Entropy = 6.27 bits
-Perplexity = 173.17, Entropy = 7.44 bits
-Perplexity = 120.33, Entropy = 6.91 bits
-Perplexity = 118.32, Entropy = 6.89 bits
-Perplexity = 94.56, Entropy = 6.56 bits
-Perplexity = 108.47, Entropy = 6.76 bits
-Perplexity = 288.04, Entropy = 8.17 bits
-Perplexity = 67.35, Entropy = 6.07 bits
-Perplexity = 155.68, Entropy = 7.28 bits
-Perplexity = 135.93, Entropy = 7.09 bits
-Perplexity = 108.61, Entropy = 6.76 bits
-Perplexity = 117.04, Entropy = 6.87 bits
-Perplexity = 133.95, Entropy = 7.07 bits
-Perplexity = 136.85, Entropy = 7.10 bits
-Perplexity = 148.50, Entropy = 7.21 bits
-Perplexity = 136.78, Entropy = 7.10 bits
-Perplexity = 120.96, Entropy = 6.92 bits
-Perplexity = 135.15, Entropy = 7.08 bits
-Perplexity = 127.42, Entropy = 6.99 bits
-Perplexity = 115.42, Entropy = 6.85 bits
-Perplexity = 101.82, Entropy = 6.67 bits
-Perplexity = 137.53, Entropy = 7.10 bits
-Perplexity = 141.21, Entropy = 7.14 bits
-Perplexity = 197.05, Entropy = 7.62 bits
-Perplexity = 111.74, Entropy = 6.80 bits
-Perplexity = 105.61, Entropy = 6.72 bits
-Perplexity = 86.41, Entropy = 6.43 bits
-Perplexity = 106.19, Entropy = 6.73 bits
-Perplexity = 115.18, Entropy = 6.85 bits
-Perplexity = 100.76, Entropy = 6.65 bits
-Perplexity = 133.62, Entropy = 7.06 bits
-Perplexity = 132.97, Entropy = 7.05 bits
-Perplexity = 84.52, Entropy = 6.40 bits
-Perplexity = 123.27, Entropy = 6.95 bits
-Perplexity = 87.41, Entropy = 6.45 bits
-Perplexity = 137.65, Entropy = 7.10 bits
-Perplexity = 132.68, Entropy = 7.05 bits
-Perplexity = 137.97, Entropy = 7.11 bits
-Perplexity = 105.09, Entropy = 6.72 bits
-Perplexity = 83.91, Entropy = 6.39 bits
-Perplexity = 118.34, Entropy = 6.89 bits
-Perplexity = 122.84, Entropy = 6.94 bits
-Perplexity = 152.73, Entropy = 7.25 bits
-Perplexity = 145.54, Entropy = 7.19 bits
-Perplexity = 93.18, Entropy = 6.54 bits
-Perplexity = 107.97, Entropy = 6.75 bits
-Perplexity = 61.36, Entropy = 5.94 bits
-Perplexity = 179.59, Entropy = 7.49 bits
-Perplexity = 76.91, Entropy = 6.27 bits
-Perplexity = 125.34, Entropy = 6.97 bits
-Perplexity = 94.12, Entropy = 6.56 bits
-Perplexity = 175.84, Entropy = 7.46 bits
-Perplexity = 122.75, Entropy = 6.94 bits
-Perplexity = 99.95, Entropy = 6.64 bits
-Perplexity = 83.83, Entropy = 6.39 bits
-Perplexity = 108.51, Entropy = 6.76 bits
-Perplexity = 123.93, Entropy = 6.95 bits
-Perplexity = 135.94, Entropy = 7.09 bits
-Perplexity = 132.99, Entropy = 7.06 bits
-Perplexity = 87.62, Entropy = 6.45 bits
-Perplexity = 148.01, Entropy = 7.21 bits
-Perplexity = 121.81, Entropy = 6.93 bits
-Perplexity = 112.02, Entropy = 6.81 bits
-Perplexity = 124.72, Entropy = 6.96 bits
-Perplexity = 96.33, Entropy = 6.59 bits
-Perplexity = 102.63, Entropy = 6.68 bits
-Perplexity = 78.41, Entropy = 6.29 bits
-Perplexity = 76.83, Entropy = 6.26 bits
-Perplexity = 65.90, Entropy = 6.04 bits
-Perplexity = 165.39, Entropy = 7.37 bits
-Perplexity = 98.32, Entropy = 6.62 bits
-Perplexity = 168.24, Entropy = 7.39 bits
-Perplexity = 177.17, Entropy = 7.47 bits
-Perplexity = 121.08, Entropy = 6.92 bits
-Perplexity = 132.80, Entropy = 7.05 bits
-Perplexity = 97.71, Entropy = 6.61 bits
-Perplexity = 123.16, Entropy = 6.94 bits
-Perplexity = 113.34, Entropy = 6.82 bits
-Perplexity = 119.65, Entropy = 6.90 bits
-Perplexity = 185.14, Entropy = 7.53 bits
-Perplexity = 123.15, Entropy = 6.94 bits
-Perplexity = 87.74, Entropy = 6.46 bits
-Perplexity = 126.78, Entropy = 6.99 bits
-Perplexity = 103.72, Entropy = 6.70 bits
-Perplexity = 113.94, Entropy = 6.83 bits
-Perplexity = 81.96, Entropy = 6.36 bits
-Perplexity = 109.74, Entropy = 6.78 bits
-Perplexity = 83.81, Entropy = 6.39 bits
-Perplexity = 137.49, Entropy = 7.10 bits
-Perplexity = 126.66, Entropy = 6.98 bits
-Perplexity = 120.65, Entropy = 6.91 bits
-Perplexity = 129.75, Entropy = 7.02 bits
-Perplexity = 200.58, Entropy = 7.65 bits
-Perplexity = 139.77, Entropy = 7.13 bits
-Perplexity = 130.22, Entropy = 7.02 bits
-Perplexity = 102.64, Entropy = 6.68 bits
-Perplexity = 93.54, Entropy = 6.55 bits
-Perplexity = 68.52, Entropy = 6.10 bits
-Perplexity = 179.18, Entropy = 7.49 bits
-Perplexity = 160.09, Entropy = 7.32 bits
-Perplexity = 114.10, Entropy = 6.83 bits
-Perplexity = 132.51, Entropy = 7.05 bits
-Perplexity = 113.50, Entropy = 6.83 bits
-Perplexity = 135.43, Entropy = 7.08 bits
-Perplexity = 87.39, Entropy = 6.45 bits
-Perplexity = 101.26, Entropy = 6.66 bits
-Perplexity = 99.21, Entropy = 6.63 bits
-Perplexity = 125.26, Entropy = 6.97 bits
-Perplexity = 140.35, Entropy = 7.13 bits
-Perplexity = 99.93, Entropy = 6.64 bits
-Perplexity = 64.79, Entropy = 6.02 bits
-Perplexity = 132.89, Entropy = 7.05 bits
-Perplexity = 105.47, Entropy = 6.72 bits
-Perplexity = 119.75, Entropy = 6.90 bits
-Perplexity = 129.39, Entropy = 7.02 bits
-Perplexity = 97.10, Entropy = 6.60 bits
-Perplexity = 142.91, Entropy = 7.16 bits
-Perplexity = 101.52, Entropy = 6.67 bits
-Perplexity = 319.57, Entropy = 8.32 bits
-Perplexity = 74.78, Entropy = 6.22 bits
-Perplexity = 118.98, Entropy = 6.89 bits
-Perplexity = 82.98, Entropy = 6.37 bits
-Perplexity = 134.80, Entropy = 7.07 bits
-Perplexity = 150.71, Entropy = 7.24 bits
-Perplexity = 90.88, Entropy = 6.51 bits
-Perplexity = 146.33, Entropy = 7.19 bits
-Perplexity = 59.35, Entropy = 5.89 bits
-Perplexity = 129.95, Entropy = 7.02 bits
-Perplexity = 130.86, Entropy = 7.03 bits
-Perplexity = 73.37, Entropy = 6.20 bits
-Perplexity = 131.92, Entropy = 7.04 bits
-Perplexity = 66.49, Entropy = 6.06 bits
-Perplexity = 60.22, Entropy = 5.91 bits
-Perplexity = 106.35, Entropy = 6.73 bits
-Perplexity = 175.15, Entropy = 7.45 bits
-Perplexity = 120.13, Entropy = 6.91 bits
-Perplexity = 117.62, Entropy = 6.88 bits
-Perplexity = 135.15, Entropy = 7.08 bits
-Perplexity = 133.46, Entropy = 7.06 bits
-Perplexity = 124.27, Entropy = 6.96 bits
-Perplexity = 114.84, Entropy = 6.84 bits
-Perplexity = 98.56, Entropy = 6.62 bits
+106.583 6.73583353621 6.61889347642 98.2846 0.186318386337 0.189610187802
+78.7899 6.29993879876 6.22173404152 74.6326 0.160377408877 0.162393290019
+103.16 6.68873986801 6.68873986801 103.16 0.287837534621 0.287837534621
+61.8694 5.95115413787 5.77808238764 54.8752 0.231123295506 0.238046165515
+194.118 7.60079009096 7.45000698961 174.854 0.37343510716 0.38099318109
+128.11 7.00123928362 6.95884267524 124.4 0.233260936444 0.234682073985
+247.841 7.95327106008 7.60126566389 194.182 0.448688525214 0.469466746772
+48.3928 5.59672051063 5.40386758421 42.3376 0.218617082106 0.226419076399
+125.587 6.97254332274 6.6766482322 102.299 0.297401549725 0.310581764621
+100.107 6.64539904819 6.64539904819 100.107 0.375021564177 0.375021564177
+127.497 6.99431949069 6.99431949069 127.497 0.401151734721 0.401151734721
+111.108 6.79581888719 6.65648206938 100.879 0.381775429736 0.389766944314
+59.5343 5.89564919494 5.89564919494 59.5343 0.340385464975 0.340385464975
+131.779 7.04197667386 6.58206518645 95.8074 0.305564705176 0.326915559972
+115.429 6.85086191723 6.57850553774 95.5713 0.301842535142 0.314339102877
+144.751 7.17742950476 7.04049795827 131.644 0.315809494509 0.321951713814
+186.429 7.54248248594 7.44339944809 174.055 0.388542288469 0.393714380944
+119.434 6.90006978558 6.90006978558 119.434 0.265978143886 0.265978143886
+79.7213 6.31689333101 5.99789754412 63.9068 0.295495202883 0.311210997304
+98.0965 6.61612975811 6.53487556637 92.7243 0.284663650748 0.288203138933
+111.113 6.79588380883 6.56341442401 94.5768 0.349831164235 0.362221824078
+135.155 7.07847107451 6.90584426236 119.913 0.320250859252 0.328256235976
+85.8631 6.42396635565 6.365944441 82.4784 0.335049707421 0.338103492403
+195.46 7.61072958653 6.97418511708 125.73 0.36911301833 0.402802524197
+108.525 6.76188361237 6.58715343216 96.1459 0.276878710606 0.284223167889
+194.49 7.60355216853 7.255972742 152.85 0.372223547831 0.390053996193
+177.05 7.4680130335 7.30727368219 158.383 0.186692121461 0.190798820047
+119.54 6.90134963765 6.71480874577 105.041 0.338717294853 0.348127038104
+135.734 7.08463833638 6.93543617416 122.398 0.185423563042 0.189412583464
+157.848 7.30239217099 7.16899295989 143.907 0.401386546934 0.40885546886
+128.023 7.00025921098 6.89020346668 118.62 0.31515057108 0.320184403657
+159.312 7.31571113014 7.22681676505 149.792 0.344134131669 0.348367196673
+119.633 6.90247159243 6.8257347558 113.436 0.31252892514 0.316042463525
+156.877 7.29349004165 7.16793993071 143.802 0.340175374915 0.346133719498
+103.967 6.69998186726 6.63787682923 99.5864 0.38008372158 0.383639845713
+79.3022 6.30928898459 6.25648799933 76.4523 0.321374201726 0.324086406159
+115.638 6.853471752 6.64072647735 99.7833 0.208852661867 0.215543558874
+99.0656 6.63031227112 6.29763897886 78.6644 0.26401075998 0.27795714989
+129.464 7.01640717385 6.82339271788 113.252 0.336164431067 0.345673570796
+123.147 6.94423767236 6.66469615686 101.455 0.129222915842 0.134642993349
+53.6881 5.7465304443 5.6999208095 51.9813 0.282882320023 0.285195517358
+98.7253 6.62534794155 6.5850661907 96.0069 0.211324830709 0.212617533611
+142.549 7.15531410839 7.05500037732 132.974 0.300826226867 0.305103618732
+92.3576 6.52915877868 6.44994593199 87.4233 0.303716092066 0.30744607934
+107.889 6.75340396976 6.66709734574 101.624 0.299966890945 0.303850009539
+153.632 7.263334936 7.21763787107 148.842 0.334709941633 0.336829092276
+123.866 6.95263642598 6.85408294455 115.687 0.341426190705 0.346335489296
+123.061 6.94322981089 6.90299005089 119.676 0.13324348761 0.134020206963
+202.65 7.66284636516 7.27936914446 155.349 0.37691144714 0.39676714498
+92.89 6.53745138765 6.53745138765 92.89 0.342655558024 0.342655558024
+95.8166 6.58220371602 6.5019374736 90.6313 0.284038457342 0.287544904423
+196.257 7.61660030205 7.30028848997 157.618 0.218040523689 0.227487930219
+102.009 6.67255263298 6.57730947974 95.4921 0.345695711342 0.350701580339
+180.422 7.49523145606 7.13176437828 140.241 0.32518046532 0.341753137552
+215.767 7.75333042171 7.39587682855 168.415 0.224633761101 0.235490640808
+88.8408 6.47315047911 6.43250181337 86.3726 0.278361577361 0.280120617163
+154.672 7.27306824165 7.13973551448 141.018 0.237332839031 0.24176496885
+87.2836 6.44763870153 6.36657750496 82.5146 0.162077626215 0.16414124773
+114.042 6.8334214355 6.8334214355 114.042 0.349171524187 0.349171524187
+56.5752 5.82209787449 5.82209787449 56.5752 0.403689854177 0.403689854177
+129.87 7.02092439616 6.2052849794 73.7865 0.339538087409 0.384167890633
+139.697 7.12615722891 7.03483196952 131.128 0.317477522464 0.321598973724
+133.444 7.06009062928 6.8867574162 118.337 0.191520612921 0.196341006787
+178.376 7.47877770744 6.98226348894 126.436 0.221910900832 0.237691158578
+122.091 6.93181304502 6.67891698668 102.46 0.102862184789 0.106757043961
+106.821 6.73905148491 6.71163256182 104.81 0.267610315262 0.26870357932
+84.1245 6.39445411987 6.18342299319 72.6768 0.283119489826 0.29278194135
+137.901 7.10748910848 6.88105276341 117.87 0.322943807706 0.333570991946
+126.34 6.98116766711 6.7937918633 110.952 0.203003360022 0.208602283057
+50.18 5.64904056563 5.49942816241 45.2369 0.281007652134 0.288652488818
+90.9606 6.50716986554 6.48919609226 89.8344 0.209437903297 0.210018004335
+110.653 6.78989875548 6.78989875548 110.653 0.28952225573 0.28952225573
+145.406 7.1839429913 7.09471111807 136.685 0.196169210662 0.198636477594
+92.9286 6.53805076823 6.39845982712 84.3584 0.282498902547 0.288661993155
+141.029 7.1398480464 7.01904579264 129.701 0.244668555628 0.248879457483
+75.7016 6.24225188767 6.17101262388 72.0543 0.178588821522 0.18065048254
+104.213 6.70339144691 6.6385126626 99.6303 0.178573399543 0.180318613518
+88.7188 6.4711679468 6.4711679468 88.7188 0.381317228115 0.381317228115
+112.311 6.81135542533 6.81135542533 112.311 0.203710137139 0.203710137139
+174.875 7.45018024716 7.31071274447 158.761 0.223182356477 0.227440037908
+233.782 7.86902004389 7.07038932789 134.4 0.367572038345 0.409090872252
+131.169 7.03528298876 6.93880330002 122.684 0.109032774817 0.110548806865
+104.312 6.70476132409 6.54081773191 93.107 0.301384972237 0.308939094215
+61.0778 5.93257619261 5.88019572894 58.9 0.282911048916 0.285431205149
+137.014 7.09817950412 7.09817950412 137.014 0.35535344498 0.35535344498
+136.712 7.09499607193 7.02131315048 129.905 0.201102046501 0.203212447501
+115.362 6.8500242713 6.63835336847 99.6193 0.390491374616 0.402942604194
+146.543 7.19518024544 6.90114445478 119.523 0.274512787008 0.286208902761
+116.632 6.86581986088 6.5623538662 94.5073 0.169495756243 0.177333827659
+101.437 6.66444017328 6.62042072559 98.3887 0.334809067183 0.337035226339
+150.17 7.23045281904 6.71255451284 104.877 0.294364988276 0.317076331408
+111.422 6.79989030717 6.79989030717 111.422 0.367695956387 0.367695956387
+137.019 7.09823215088 7.00647756407 128.576 0.218419821717 0.221280177767
+115.677 6.8539582324 6.74023949942 106.909 0.257343539914 0.261685341315
+113.036 6.82063850888 6.76410194812 108.692 0.18832817136 0.189902279376
+106.011 6.72807016043 6.69376571222 103.52 0.29935430316 0.300888444722
+106.904 6.7401720248 6.7401720248 106.904 0.338279536993 0.338279536993
+110.043 6.78192356593 6.4605247017 88.0667 0.274729455679 0.288396725615
+127.605 6.99554104971 6.81152240764 112.324 0.356043979869 0.365662788377
+258.868 8.01607282711 6.87101810013 117.053 0.321764903185 0.375387003724
+124.515 6.96017574028 6.91543724305 120.713 0.31730202203 0.319354765065
+198.862 7.6356238116 6.85037439144 115.39 0.304235807611 0.339109958697
+118.551 6.88936402205 6.74856857239 107.528 0.331274202212 0.338185579012
+324.086 8.34023288964 7.53267540644 185.166 0.337547256185 0.373734772301
+91.8494 6.52119839195 6.46116836461 88.106 0.081024553323 0.0817773438211
+122.407 6.93554225252 6.81211311298 112.37 0.32148349431 0.327308475548
+184.859 7.53028147371 7.34121190518 162.153 0.259227204277 0.265903482839
+262.487 8.03610216303 7.65593851979 201.682 0.34763826032 0.364900602126
+102.91 6.68523936879 6.6122669726 97.8342 0.287218523463 0.290388241803
+95.9463 6.58415526739 6.5108480178 91.1928 0.193943665635 0.196127325377
+99.8312 6.64141886286 6.62272101614 98.5457 0.219661790382 0.22028195881
+135.772 7.08504217579 6.93642593558 122.482 0.197539620508 0.201772001271
+109.709 6.77753807215 6.77753807215 109.709 0.374226936169 0.374226936169
+78.8423 6.30089795841 6.25768012384 76.5155 0.0819486566344 0.08251462412
+118.499 6.88873107421 6.84972410068 115.338 0.306328974325 0.308073419213
+94.1646 6.55711289355 6.41428947089 85.2891 0.252562401273 0.258186068049
+96.0279 6.58538172305 6.417217927 85.4624 0.163578973348 0.167865575646
+101.69 6.66803400408 6.66803400408 101.69 0.293259800186 0.293259800186
+103.622 6.69518652409 6.52126278995 91.8535 0.262962695971 0.26997597783
+124.385 6.95866870635 6.95866870635 124.385 0.352365887071 0.352365887071
+132.561 7.05051258074 6.97481607927 125.785 0.295003287753 0.298204908634
+126.85 6.98697970918 6.92419492171 121.448 0.0818243281879 0.0825662661479
+67.6343 6.07968317409 6.07968317409 67.6343 0.337240144965 0.337240144965
+102.62 6.68116812042 6.57014715513 95.0192 0.286200105286 0.291036254493
+108.593 6.76278729853 6.7154403986 105.087 0.237426672225 0.239100637926
+129.36 7.0152477737 7.0152477737 129.36 0.318874898804 0.318874898804
+96.8893 6.59826544485 6.56530927829 94.7011 0.28226469244 0.283681588708
+122.382 6.93524757117 6.87735162645 117.568 0.226003797331 0.227906376124
+189.334 7.56478969869 7.40613696219 169.617 0.356741064703 0.364383098117
+115.289 6.84911105834 6.77171394463 109.267 0.312024108124 0.315590378875
+118.666 6.89076282519 6.81522957095 112.613 0.174064181475 0.175993336456
+133.794 7.06386960946 7.01202107844 129.071 0.0849333828329 0.0855614002169
+132.112 7.04561770522 6.91475584967 120.656 0.20634168479 0.210246704192
+79.8273 6.3188103105 6.3188103105 79.8273 0.405351870414 0.405351870414
+127.764 6.99733757584 6.92813340783 121.78 0.30921772689 0.312306460069
+201.457 7.65432812527 7.31236567 158.943 0.330002443032 0.3454349926
+99.4344 6.63567314309 6.63567314309 99.4344 0.289329098284 0.289329098284
+101.416 6.66414146835 6.4265012702 86.0141 0.352170100246 0.365192702885
+86.1286 6.42842047568 6.3462743722 81.3615 0.361612542913 0.366293251567
+98.6955 6.6249124017 6.31980757891 79.8825 0.381098736118 0.399497249189
+148.072 7.21015504661 7.06030683786 133.464 0.365079775345 0.372828241755
+120.666 6.91487541565 6.91487541565 120.666 0.33192464171 0.33192464171
+149.808 7.22697085798 7.08836424399 136.085 0.267914985598 0.273153823179
+110.675 6.79018556321 6.58252589638 95.838 0.337233017474 0.347871744485
+117.36 6.8747969659 6.84134419218 114.67 0.303834762383 0.305320452222
+135.22 7.07916474204 7.05086080284 132.593 0.159916770503 0.16055871688
+104.363 6.70546651109 6.70546651109 104.363 0.434650836064 0.434650836064
+146.744 7.19715770608 7.13999125615 141.043 0.278134570594 0.280361459316
+155.029 7.27639430361 7.21188829455 148.25 0.172941491556 0.174488349322
+132.739 7.0524485005 6.94749083485 123.425 0.293585071938 0.298020342823
+111.499 6.80088696089 6.73711887237 106.678 0.2663080063 0.268828661322
+67.7473 6.08209154535 6.08209154535 67.7473 0.46241285738 0.46241285738
+118.875 6.89330153086 6.8723362881 117.16 0.161134321018 0.161625888953
+122.31 6.93439855243 6.86832871367 116.835 0.282764618286 0.285484670502
+106.039 6.72845115983 6.63644336606 99.4875 0.2034532251 0.206273904995
+105.118 6.71586592175 6.57883156335 95.5929 0.259443790569 0.264847898128
+55.4381 5.7928059085 5.71330814843 52.4659 0.153908653848 0.15605021403
+152.709 7.25464128055 7.203700374 147.411 0.357954749462 0.360486023459
+97.1436 6.60204704641 6.60204704641 97.1436 0.275564119539 0.275564119539
+62.1967 5.95876613151 5.92374819774 60.7052 0.170507291037 0.171515236147
+151.833 7.2463415758 7.02131315048 129.905 0.302149210003 0.3118328916
+161.701 7.33718479061 6.33118209456 80.5148 0.448805599232 0.520119239573
+123.413 6.94735056196 6.85247332981 115.558 0.201717905227 0.204510829125
+129.855 7.02075775509 6.89521778294 119.033 0.259688925404 0.264417034289
+102.064 6.67333027852 6.56083109898 94.4076 0.155637821621 0.158306557788
+176.78 7.46581125448 7.07086156147 134.444 0.299602019746 0.316336575315
+85.7079 6.42135628365 6.42135628365 85.7079 0.282410926447 0.282410926447
+130.653 7.02959644138 6.92981466378 121.922 0.202077499266 0.204987194989
+117.483 6.87630820112 6.87630820112 117.483 0.300392918508 0.300392918508
+152.451 7.25220180349 7.07409863629 134.746 0.315105397824 0.323038743433
+199.06 7.63705953841 7.28304203783 155.745 0.214765192963 0.225204599523
+187.677 7.55210804709 7.40116111846 169.033 0.299664254479 0.305775916974
+126.309 6.98081363011 6.92570278135 121.575 0.265004652065 0.267113410087
+163.241 7.35085964333 7.11784046831 138.894 0.222759061198 0.230051600684
+106.196 6.7305856161 6.7305856161 106.196 0.31870246585 0.31870246585
+130.245 7.02508417945 6.97479314003 125.783 0.32555546414 0.327902848837
+143.564 7.16555021517 7.0926514451 136.49 0.259680419498 0.262349433101
+128.766 7.00860789731 6.75207953095 107.79 0.29666934258 0.307940551909
+97.3505 6.60511648365 6.50638931001 90.9114 0.500491485386 0.508085883358
+159.248 7.31513144352 7.12425575026 139.513 0.334357889435 0.343316129591
+124.086 6.95519654239 6.82349462471 113.26 0.329058130489 0.335409360935
+79.1964 6.30736294665 6.21962739878 74.5237 0.212955986128 0.215959994072
+71.3658 6.15716096479 6.10023761435 68.6048 0.318429811461 0.321401186167
+104.799 6.71148114041 6.66601801564 101.548 0.311143075569 0.313265112508
+131.845 7.04269905023 6.97272711287 125.603 0.0940886862463 0.0950328745895
+119.605 6.90213389139 6.90213389139 119.605 0.221045191469 0.221045191469
+61.8756 5.95129870467 5.82880672934 56.8389 0.263318647223 0.268852270611
+137.089 7.09896900391 7.04251301817 131.828 0.0907145734319 0.0914417826896
+111.263 6.79783010059 6.5803233978 95.6918 0.250327299555 0.258601644485
+172.337 7.42908866491 6.89415081734 118.945 0.297781960615 0.320887756423
+130.167 7.0242199319 6.76564082298 108.808 0.339986243578 0.352980332713
+136.808 7.09600878566 7.0073637163 128.655 0.0947633504293 0.0959621327549
+114.531 6.83959433389 6.72811098661 106.014 0.242306998486 0.246321973166
+39.4552 5.30214354772 5.30214354772 39.4552 0.417867450533 0.417867450533
+110.625 6.78953364497 6.7601677095 108.396 0.274839900686 0.27603379574
+127.017 6.98887779051 6.91922088593 121.03 0.245399475809 0.247869951626
+113.079 6.82118721982 6.76305298088 108.613 0.258026565162 0.260244524719
+66.0552 6.04560023272 5.76767068686 54.4806 0.383659747117 0.402147345503
+93.469 6.54641605388 6.45972832426 88.0181 0.240572854307 0.243801274064
+96.8702 6.59798101518 6.5328608289 92.5949 0.0974619725984 0.0984334829332
+121.16 6.92076967302 6.86262496056 116.374 0.271269070036 0.273567441602
+182.496 7.51172103271 7.39179349196 167.939 0.342418221269 0.347973757314
+109.949 6.78069067253 6.70411114053 104.265 0.195579022903 0.19781307746
+88.2791 6.46400001639 6.37770334893 83.1534 0.0917678906652 0.0930096014678
+94.0934 6.55602162633 6.46016589468 88.0448 0.0877817718731 0.0890842749521
+120.804 6.91652441501 6.77609082474 109.599 0.287112182784 0.293062544974
+145.785 7.18769847639 6.96739919892 125.14 0.286600506661 0.295662408058
+127.77 6.9974053255 6.94458908636 123.177 0.258093620799 0.260056520868
+73.9907 6.20927204256 6.03627033858 65.6294 0.201883080214 0.20766912274
+33.9136 5.08379203249 5.08379203249 33.9136 0.309964270813 0.309964270813
+185.464 7.53499536551 6.93148214353 122.063 0.239587071858 0.260447540468
+169.054 7.40134034213 6.95614960657 124.168 0.319844099672 0.340313991502
+108.404 6.76027418146 6.72185110862 105.555 0.329170464999 0.331052050971
+121.12 6.92029330021 6.92029330021 121.12 0.27571108458 0.27571108458
+227.603 7.83037576349 7.01126080608 129.003 0.325489611608 0.363516068863
+257.014 8.00570313744 7.73554248536 213.123 0.293214981209 0.303455394299
+188.381 7.55750965267 7.37229918639 165.685 0.334414282181 0.342815599541
+98.5197 6.62234032961 6.62234032961 98.5197 0.381072864359 0.381072864359
+77.9191 6.28390510864 6.25615395237 76.4346 0.233315172643 0.234350116135
+105.901 6.72657240222 6.48819684574 89.7722 0.320039148719 0.331797347798
+73.8854 6.2072174061 6.07633034245 67.4773 0.0924484220948 0.0944398053516
+106.221 6.7309252064 6.58431765228 95.9571 0.191514665571 0.195778964194
+140.221 7.13155861849 7.05919301722 133.361 0.105572965748 0.106655221344
+102.853 6.68444006455 6.47620506651 89.0291 0.224252641185 0.231463229457
+101.449 6.66461083405 6.56954121842 94.9793 0.336126969826 0.340991154517
+165.179 7.36788647144 7.2076781489 147.818 0.266768136712 0.272697712756
+145.214 7.18203673923 6.98763920613 126.908 0.198756452899 0.204285897535
+123.729 6.95103987322 6.90764781175 120.063 0.22554269612 0.22695949715
+155.579 7.28150352876 7.21779294746 148.858 0.25745014842 0.259722629597
+121.169 6.92087683523 6.7320113585 106.301 0.308561234716 0.317217869649
+87.2515 6.44710802878 6.14668780294 70.8496 0.351382753839 0.368556635065
+80.3042 6.32740353918 6.27466794451 77.4218 0.221428223245 0.223289221968
+95.9148 6.58368154036 6.48481161844 89.5618 0.339430553458 0.344605641694
+92.6046 6.53301195395 6.37634074619 83.0749 0.245789873024 0.251829104269
+126.775 6.98612646418 6.88520827555 118.21 0.188230079367 0.190989013868
+117.552 6.87715527462 6.83124389686 113.87 0.365145345536 0.367599411904
+218.558 7.77187237663 7.342323617 162.278 0.267569147079 0.283222774083
+125.931 6.97648965981 6.87329645174 117.238 0.34759754234 0.352816247188
+194.01 7.59998720599 6.7704062163 109.168 0.382685985328 0.429576675238
+115.118 6.84696962255 6.62510826475 98.7089 0.303342869156 0.313501202898
+163.176 7.35028507045 7.08491465977 135.76 0.39855758814 0.413485840056
+229.297 7.84107366936 7.49365533896 180.225 0.42768550022 0.447513711647
+77.6828 6.2795232971 6.08918668017 68.0813 0.355128578928 0.366229235853
+151.803 7.24605649201 7.09093809317 136.328 0.259097238942 0.264765141879
+95.7678 6.58146875514 6.46610012364 88.4077 0.312916517022 0.318499596413
+90.6535 6.50229081629 6.42934815372 86.184 0.0904913923656 0.0915180412484
+123.347 6.94657881715 6.80246466628 111.621 0.40872048977 0.417379469892
+93.1895 6.54209550523 6.40237769501 84.5878 0.301142515248 0.307714288236
+112.974 6.81984697669 6.81984697669 112.974 0.361959895006 0.361959895006
+68.3666 6.09521977405 5.97294073946 62.8108 0.20332126733 0.207483694075
+96.2435 6.58861720354 6.47069303472 88.6896 0.0927799244508 0.0944707781838
+125.402 6.97041654722 6.91294919785 120.505 0.0979010226252 0.0987148738644
+115.858 6.85621385557 6.82610353475 113.465 0.297632257936 0.298945130313
+136.377 7.09145654393 7.04212993544 131.793 0.100011691559 0.100712223585
+236.164 7.88364525197 7.67349989095 204.152 0.274228513972 0.281738496495
+102.85 6.68439798364 6.35724583928 81.9826 0.286315952874 0.301050144427
+124.791 6.96337007972 6.89021562895 118.621 0.24576585242 0.248375185265
+75.2213 6.23306933463 6.12535767314 69.8098 0.0805619497666 0.0819785954427
+149.265 7.22173210846 7.12691092605 139.77 0.351544590894 0.356221774897
+188.56 7.55887985348 7.12125375761 139.223 0.268966042329 0.285494951849
+128.549 7.00617457707 6.94772459271 123.445 0.0830708654958 0.0837697260687
+96.4369 6.5915133706 6.53487089867 92.724 0.256912285028 0.259139130381
+108.791 6.76541540084 6.67479959084 102.168 0.259032460571 0.262549035999
+74.3391 6.21604931694 6.21604931694 74.3391 0.320995406449 0.320995406449
+60.1374 5.9101905902 5.85950993889 58.0615 0.207164960611 0.208956792222
+71.278 6.15538495152 6.15538495152 71.278 0.258047160924 0.258047160924
+126.425 6.98213796824 6.98213796824 126.425 0.334767892168 0.334767892168
+134.614 7.07268464935 6.97784086251 126.049 0.0882493623343 0.0894488599834
+138.43 7.11301282177 7.050251359 132.537 0.0922567555393 0.0930780268152
+113.244 6.82329080385 6.6249898731 98.7008 0.322499461106 0.33215259938
+114.761 6.84248863435 6.79074597738 110.718 0.350205983951 0.352874407738
+105.496 6.72104448833 6.58376426581 95.9203 0.0768102630591 0.0784118589818
+83.1006 6.37678698842 6.2904409924 78.2729 0.0870821324501 0.088277468909
+101.554 6.66610325527 6.63178384241 99.1667 0.262349314176 0.263706969166
+141.388 7.1435158695 6.97098016064 125.451 0.271963838361 0.27869509746
+143.942 7.16934379888 7.13069410678 140.137 0.162439240079 0.163319691059
+190.111 7.57069819986 6.86799527534 116.808 0.316460517664 0.348839359282
+116.81 6.86801997712 6.81469140489 112.571 0.245584431335 0.247506259677
+76.3524 6.25460160114 6.14119978929 70.5806 0.215779765559 0.219764299073
+84.5257 6.40131815374 6.40131815374 84.5257 0.319666573898 0.319666573898
+123.065 6.94327670378 6.92188853035 121.254 0.167388857823 0.167906078218
+144.441 7.17433650334 6.45584008737 87.7812 0.271359199034 0.301559856006
+110.307 6.78538053596 6.65089377562 100.489 0.249077929346 0.254114498102
+116.057 6.85868973151 6.79100656098 110.738 0.197193141364 0.199158484336
+75.582 6.23997078962 6.20102411527 73.5689 0.155905049223 0.156884239606
+93.129 6.54115858213 6.44525989692 87.1398 0.194420290721 0.197313060067
+155.597 7.28167043437 7.14278100869 141.316 0.338600293137 0.34518428335
+82.158 6.36032915696 6.29428254889 78.4816 0.154580237879 0.156202265538
+107.451 6.74753509914 6.74753509914 107.451 0.27969432847 0.27969432847
+67.8387 6.08403661854 6.02360134467 65.0556 0.226701227173 0.228975738709
+104.399 6.7059640827 6.51073410734 91.1856 0.181063410753 0.186492753226
+158.343 7.30690928014 7.00646634347 128.575 0.308442482112 0.321668744907
+98.7381 6.6255349787 6.41659657057 85.4256 0.276639121643 0.285647096053
+126.408 6.98194396021 6.88203160835 117.95 0.292125972637 0.29636701578
+215.709 7.75294256092 7.57970060497 191.301 0.164620577563 0.16838315241
+192.528 7.58892446687 7.28033464848 155.453 0.298967511063 0.311639776061
+119.934 6.90609689505 6.80959451262 112.174 0.174090685981 0.176557817603
+82.6837 6.36953104403 6.36953104403 82.6837 0.287160636474 0.287160636474
+116.323 6.8619925721 6.79718162837 111.213 0.115655877575 0.116758653252
+187.704 7.55231558432 7.30041662784 157.632 0.139416418025 0.144226944877
+76.1483 6.250739924 6.16550398838 71.7797 0.1223593701 0.124050945584
+145.426 7.18414141445 7.09698917464 136.901 0.153200182964 0.15508150739
+96.7948 6.59685764016 6.4770976725 89.0842 0.258876888164 0.263663459144
+96.3292 6.58990127935 6.1986807647 73.4495 0.210154959857 0.2234185775
+257.896 8.01064558669 7.47156141987 177.486 0.371724074086 0.398544513817
+120.628 6.91442101221 6.91442101221 120.628 0.397223108344 0.397223108344
+82.5469 6.36714213148 6.29656569721 78.6059 0.259006103644 0.261909230226
+95.3177 6.57467223485 6.53461259574 92.7074 0.28879180493 0.290562207584
+117.488 6.87636959997 6.78660942972 110.401 0.34190444368 0.346426495728
+85.0519 6.41027155993 6.41027155993 85.0519 0.412921890236 0.412921890236
+106.336 6.73248629303 6.58147628737 95.7683 0.299158013062 0.306022104229
+101.807 6.66969295078 6.57373806306 95.256 0.304196319322 0.308636581983
+145.4 7.18388345903 7.0537195736 132.856 0.288448043765 0.293770840869
+201.164 7.65222833553 7.23297727085 150.433 0.331175278984 0.350371466544
+93.3816 6.54506640281 6.455282829 87.7473 0.112440216589 0.114004096089
+133.438 7.06002576038 6.81365294596 112.49 0.206190518047 0.213646098577
+86.6801 6.43762891271 6.32206153801 80.0074 0.347491929052 0.35384408645
+134.858 7.07529729695 6.98204667359 126.417 0.279058709204 0.282785753694
+127.806 6.99781175663 6.94725703912 123.405 0.116208017815 0.117053655666
+267.252 8.06205693428 7.76780043741 217.942 0.317383721653 0.329406716174
+99.3921 6.63505928124 6.57513228515 95.3481 0.338636541258 0.341722938581
+134.516 7.07163397406 7.0331696817 130.977 0.214409961891 0.215582566539
+115.168 6.84759610226 6.68474862042 102.875 0.163042649279 0.16701453908
+265.502 8.05257891852 7.79577993281 222.21 0.272240444211 0.281208253789
+126.851 6.98699108237 6.82576019186 113.438 0.167683284452 0.171644121709
+212.003 7.72794086991 7.44102692132 173.769 0.221750026571 0.230300348508
+131.205 7.03567888944 6.87419448789 117.311 0.278100141677 0.284633101288
+91.9381 6.5225909465 6.43777703583 86.689 0.191512316578 0.194035378253
+83.9903 6.39215081623 6.31431405203 79.5789 0.398555968904 0.403468981896
+60.3078 5.91427270221 5.91427270221 60.3078 0.291022334233 0.291022334233
+98.1377 6.61673555503 6.4709012346 88.7024 0.198845968897 0.203327348799
+127.901 6.99888373382 6.90163925791 119.564 0.155971738041 0.15816938839
+94.5774 6.56342357652 6.53044847605 92.4402 0.272102019836 0.273475982355
+151.81 7.2461230166 7.18517277514 145.53 0.154851423042 0.15616499363
+141.417 7.1438117494 7.05543429014 133.014 0.227122465932 0.229967437007
+72.4289 6.1784935597 6.08516543057 67.8918 0.14500825001 0.147232240275
+119.152 6.89665935755 6.8348123263 114.152 0.20207546264 0.203904008452
+69.7029 6.12314677578 6.0197352686 64.8815 0.300611233947 0.30577535818
+248.241 7.95559760344 7.4672876331 176.961 0.124941626455 0.133111961509
+129.779 7.0199131444 6.86100003142 116.243 0.353829060149 0.362024378201
+126.182 6.97936231275 6.96321978031 124.778 0.204977975122 0.205453166731
+118.258 6.88579397309 6.83196588722 113.927 0.184311452997 0.185763616677
+79.9075 6.32025901362 6.19589677315 73.3079 0.162656142072 0.165920928913
+81.2217 6.3437933186 6.27558259483 77.4709 0.286738687584 0.289855315103
+109.916 6.78025759827 6.78025759827 109.916 0.281292483803 0.281292483803
+131.232 7.03597574367 6.96868983006 125.252 0.123889042803 0.125085248637
+108.07 6.75582227938 6.70192326634 104.107 0.168339029005 0.169692865383
+133.43 7.05993926398 7.00040570093 128.036 0.274789960347 0.277126857111
+115.525 6.85206127928 6.75360453628 107.904 0.147445962428 0.149595488529
+106.01 6.72805655145 6.54157678828 93.156 0.148480587075 0.152713301237
+148.058 7.21001863536 6.98952506742 127.074 0.36786974039 0.379474665019
+106.774 6.73841657615 6.73841657615 106.774 0.324202218679 0.324202218679
+159.291 7.31552094614 7.11295028939 138.424 0.334935747948 0.344474427634
+123.585 6.94935983804 6.85590251524 115.833 0.331780376903 0.336303093746
+107.296 6.74545248313 6.74545248313 107.296 0.299281058493 0.299281058493
+177.716 7.47342976468 7.19908336951 146.94 0.354243734102 0.367743437672
+156.082 7.28616035933 6.79479273745 111.029 0.255183797654 0.273637496043
+82.8179 6.37187071588 6.15178374204 71.1003 0.223886333533 0.231896118613
+265.339 8.05169293082 7.52928217734 184.731 0.217623854644 0.232723440395
+54.8665 5.77785364238 5.51770087909 45.8135 0.154830420293 0.162130482867
+118.652 6.8905926086 6.83856104715 114.449 0.256285910599 0.258235875805
+138.289 7.11154259372 7.02022437429 129.807 0.213125847735 0.215898162677
+110.188 6.78382330585 6.70581206514 104.388 0.177766093151 0.179834113153
+125.54 6.97200330381 6.97200330381 125.54 0.204970284897 0.204970284897
+97.8413 6.61237166771 6.42662202912 86.0213 0.354311141685 0.364551850757
+98.2781 6.61879806139 6.51543492569 91.4832 0.322958118975 0.328081639393
+238.846 7.89993690569 7.57161614027 190.232 0.404142971288 0.421667437295
+77.1853 6.27025420616 6.15979264218 71.4961 0.204083035001 0.207742789888
+136.667 7.09452111755 6.98835521485 126.971 0.389445810298 0.395362204747
+69.1203 6.11103757407 6.11103757407 69.1203 0.343772721835 0.343772721835
+121.203 6.92128159842 6.88612332349 118.285 0.169678961171 0.170545285994
+125.998 6.9772570234 6.9772570234 125.998 0.431056378464 0.431056378464
+155.074 7.27681301145 6.55848959362 94.2545 0.319641224609 0.354650165869
+92.6378 6.53352908692 6.53352908692 92.6378 0.290738228454 0.290738228454
+114.429 6.83830891369 6.81384530957 112.505 0.174599227616 0.175226087515
+71.751 6.16492703378 6.12600024517 69.8409 0.152626252048 0.153596093643
+137.33 7.10150300917 7.00466992153 128.415 0.2952116401 0.299292668176
+130.825 7.03149444873 6.93344280875 122.229 0.254534693017 0.258134281961
+182.357 7.51062177015 7.09851641021 137.046 0.284624577085 0.301148496593
+119.045 6.89536321713 6.8184543583 112.865 0.134551464167 0.136069139437
+106.376 6.73302888397 6.73302888397 106.376 0.361969875285 0.361969875285
+44.4971 5.47563940957 5.28463627744 38.9793 0.21087994511 0.218501799843
+107.852 6.75290911976 6.72567300037 105.835 0.186250287824 0.187004522393
+143.019 7.1600630108 7.00282626465 128.251 0.217252897906 0.222130948206
+141.025 7.13980712672 7.08307505015 135.587 0.223095894051 0.224882786503
+36.4719 5.18871345357 5.07289469262 33.6584 0.0993730549652 0.101641831432
+103.279 6.69040312669 6.10456730483 68.811 0.298941947073 0.327630450698
+143.322 7.1631162708 6.88891368381 118.514 0.197634429414 0.205500963139
+121.766 6.92796754405 6.87839429767 117.653 0.10442205666 0.105174636422
+166.167 7.37649008775 6.98901408347 127.029 0.208743571288 0.220316466113
+150.662 7.23517177576 6.85805561536 116.006 0.197975012782 0.208861418618
+118.166 6.88467117717 6.68012740765 102.546 0.112259158478 0.115696504809
+99.7306 6.63996432464 6.63996432464 99.7306 0.436877578187 0.436877578187
+154.849 7.27471825603 7.06613225534 134.004 0.320526268159 0.329987921292
+134.411 7.07050740078 6.82736176007 113.564 0.343521851249 0.35575583614
+92.5414 6.53202701957 6.34644458852 81.3711 0.362210724364 0.372802473152
+63.2054 5.98197591627 5.96269245244 62.3662 0.107931980186 0.108281034317
+134.365 7.07001357713 6.99046707443 127.157 0.115344191794 0.116656725988
+135.067 7.07753142364 6.95798422509 124.326 0.242983349015 0.247158118277
+129.913 7.0214019939 6.94365179207 123.097 0.114587329353 0.115870398875
+133.08 7.05614996111 6.97030149702 125.392 0.28818649873 0.291735895883
+190.858 7.57635584957 7.27288168063 154.652 0.28245531939 0.294241279492
+95.6778 6.58011231171 6.53767967853 92.9047 0.107917184389 0.108617617956
+120.492 6.91279355247 6.88278975665 118.012 0.27597472633 0.277177768938
+52.3476 5.71005148978 5.62173541712 49.2392 0.38429392166 0.3903310841
+59.4572 5.89377961933 5.89377961933 59.4572 0.467407127298 0.467407127298
+115.128 6.84709494026 6.7650838337 108.766 0.215444159539 0.21805592524
+126.062 6.97798964646 6.95414977109 123.996 0.263407205418 0.264310205088
+94.618 6.56404276091 6.4733063661 88.8504 0.30860277244 0.312928460337
+109.512 6.7749451545 6.6727930409 102.026 0.286093641366 0.290473377104
+69.6794 6.12266029602 6.12266029602 69.6794 0.399398319287 0.399398319287
+49.4334 5.62741423249 5.52886507868 46.1694 0.264179392221 0.268888252935
+66.6573 6.05869097616 6.01931494989 64.8626 0.0890602725744 0.089642870372
+121.983 6.93053629228 6.86078902853 116.226 0.110328313317 0.111449918709
+87.7762 6.4557579094 6.4557579094 87.7762 0.323192138453 0.323192138453
+143.829 7.16821078306 6.95910938681 124.423 0.317638432608 0.327182561903
+153.13 7.25861314153 7.06589538258 133.982 0.290652098271 0.298579447599
+75.1888 6.23244587131 6.1334299519 70.2015 0.209881652207 0.213269907217
+113.856 6.83106651061 6.70055069041 104.008 0.23514323157 0.239723438951
+120.128 6.90842865017 6.73560340784 106.566 0.286168367256 0.293511008208
+129.459 7.01635145477 6.99005856861 127.121 0.282787500657 0.283851196975
+102.415 6.67828322192 6.62931727331 98.9973 0.231364768104 0.233073691494
+111.882 6.80583413851 6.53192100554 92.5346 0.276270822065 0.287856113185
+239.055 7.90119877074 7.34765679886 162.879 0.296045529015 0.318348370639
+121.022 6.91912552162 6.73613129491 106.605 0.292875273692 0.300831544418
+117.594 6.87767064118 6.76688663936 108.902 0.358141619447 0.364004930587
+87.6281 6.45332167282 6.40999334769 85.0355 0.291062804423 0.293030242318
+78.7998 6.3001200629 6.21707751869 74.3921 0.221193691607 0.22414821274
+143.173 7.16161564021 7.04556310297 132.107 0.280701952985 0.285325596741
+84.2293 6.39625027131 6.32460001505 80.1483 0.227627335401 0.230206084551
+127.804 6.99778918013 6.94029597634 122.811 0.274125209782 0.276396054802
+100.552 6.65179796721 6.65179796721 100.552 0.278857877126 0.278857877126
+104.102 6.70185397563 6.58494747257 95.999 0.350481389776 0.356703695092
+118.242 6.88559876699 6.77973248541 109.876 0.21746002086 0.220855683425
+49.1618 5.6194658341 5.5165856806 45.7781 0.281884360358 0.287141290631
+108.299 6.75887611138 6.54814836516 93.5813 0.244204726728 0.252063545559
+122.355 6.93492924769 6.89452677026 118.976 0.298915644882 0.300667314431
+119.849 6.90507406121 6.86238939725 116.355 0.216037814293 0.217381588447
+129.441 7.01615084828 6.95577775399 124.136 0.407754913261 0.411294046726
+140.05 7.12979817319 6.85867730054 116.056 0.29962270904 0.311466679354
+84.3772 6.39878130839 6.36336384419 82.331 0.242424855305 0.24377415323
+119.615 6.90225450798 6.19921689166 73.4768 0.305043521167 0.339637740686
+76.583 6.25895227114 6.2102778057 74.0423 0.0620067419773 0.0624927339271
+135.806 7.08540341 7.02418668127 130.164 0.0645154281561 0.0650776887627
+140.156 7.13088969644 6.89417507533 118.947 0.270204024779 0.279481602248
+65.9592 6.04350199574 6.04350199574 65.9592 0.270003756803 0.270003756803
+117.383 6.87507967496 6.87507967496 117.383 0.229937061073 0.229937061073
+139.283 7.12187537225 6.8959569213 119.094 0.255056180234 0.263412075986
+66.3746 6.05255935657 5.98776197572 63.4594 0.332653443096 0.336253297587
+108.254 6.75827652349 6.55541126036 94.0536 0.296749524536 0.305932803508
+63.1579 5.98089129728 5.98089129728 63.1579 0.316986604783 0.316986604783
+100.97 6.65778289582 6.5622210508 94.4986 0.2739018146 0.277890488946
+88.142 6.46175772757 6.46175772757 88.142 0.419736269066 0.419736269066
+119.608 6.90217007742 6.80414393115 111.751 0.271514901574 0.275426570658
+119.509 6.90097545875 6.83666897127 114.299 0.292582422008 0.295334485613
+62.3951 5.96336083097 5.85139925476 57.736 0.299776264947 0.305512230255
+116.594 6.86534973824 6.83242169503 113.963 0.266558157772 0.267842803089
+129.577 7.01766585143 7.01766585143 129.577 0.382276617739 0.382276617739
+93.909 6.55319152362 6.55319152362 93.909 0.394455776003 0.394455776003
+106.773 6.73840306441 6.69903795853 103.899 0.253019171686 0.254505971216
+140.953 7.13907037388 7.08138223951 135.428 0.391601332655 0.394791493775
+101.772 6.66919688461 6.55350181663 93.9292 0.319398135232 0.32503676783
+149.884 7.22770257471 7.17493566651 144.501 0.191077018037 0.192482263176
+149.334 7.22239886192 6.79557215834 111.089 0.288455973374 0.306573757922
+234.659 7.87442198364 7.03375335189 131.03 0.33532103415 0.375398338667
+65.5583 6.03470653911 6.01153365578 64.5137 0.141418493531 0.14196362468
+108.33 6.7592890159 6.65981041662 101.112 0.465141335905 0.472089222656
+101.969 6.67198680919 6.63115522409 99.1235 0.206619155321 0.20789142046
+133.227 7.05774268073 7.01356275364 129.209 0.25144840706 0.253032334185
+110.297 6.78524974096 6.66543540996 101.507 0.352772251002 0.359113497844
+251.923 7.97683903265 7.60103532783 194.151 0.490644720644 0.514902745481
+126.107 6.97850454938 6.88236181868 117.977 0.153740624892 0.155888295108
+174.619 7.44806673451 7.32740892878 160.609 0.239503853282 0.243447677037
+93.7609 6.55091451298 6.55091451298 93.7609 0.442669779912 0.442669779912
+136.814 7.09607205667 6.87186828448 117.122 0.245423867303 0.253431144881
+145.027 7.18017770477 7.11677020815 138.791 0.304013356277 0.306721990292
+153.965 7.26645861819 7.20746341421 147.796 0.298246958174 0.300688197085
+70.3109 6.1356764564 6.04713918442 66.1257 0.286340339361 0.290532700697
+102.173 6.67487019317 6.67487019317 102.173 0.296441392526 0.296441392526
+107.17 6.74375729978 6.64698344617 100.217 0.323187394621 0.327892700399
+105.363 6.71922451891 6.56737203638 94.8366 0.250196948443 0.255982067291
+76.5739 6.25878083225 6.14556537707 70.7945 0.32802601264 0.334069006579
+90.5143 6.50007383083 6.46231903562 88.1763 0.290459640334 0.292156592183
+93.5534 6.547718181 6.39786284478 84.3235 0.156278026566 0.159938482688
+141.403 7.1436689184 7.08457456193 135.728 0.187215700149 0.188777317043
+243.845 7.92982058024 7.70182625841 208.2 0.396664233114 0.408406538093
+116.634 6.86584459994 6.76650240649 108.873 0.370802047742 0.376245966408
+104.002 6.70046746201 6.61203396182 97.8184 0.318490469111 0.322750160928
+95.8439 6.58261470915 6.5535540376 93.9326 0.245777478526 0.246867338857
+87.4873 6.45100169975 6.09329606916 68.2755 0.260768998677 0.276077386462
+182.881 7.51476138717 6.9307964632 122.005 0.312147373832 0.338447831276
+139.531 7.12444187511 7.0304905815 130.734 0.188234197558 0.190749647391
+88.4976 6.46756642562 6.37633553632 83.0746 0.305721888762 0.3100960751
+126.819 6.98662709576 6.98662709576 126.819 0.253598497352 0.253598497352
+141.045 7.14001171353 7.10297300424 137.47 0.322197398466 0.323877508438
+95.3907 6.57577671418 6.37577449707 83.0423 0.307467148699 0.317112112061
+260.761 8.02658430277 7.62437875925 197.318 0.322765690241 0.33979240861
+128.286 7.00321992581 6.85217366837 115.534 0.268351831544 0.274267259523
+313.785 8.29363257795 7.8537399602 231.319 0.190537221615 0.20120932403
+106.79 6.73863274667 6.65030502892 100.448 0.298306949588 0.302268989213
+73.9032 6.20756492914 6.20756492914 73.9032 0.290377639689 0.290377639689
+115.596 6.85294766651 6.8079344599 112.045 0.338707398806 0.340946889537
+108.181 6.75730332838 6.71736112034 105.227 0.298623126337 0.300398774069
+124.407 6.95892385355 6.86814347967 116.82 0.215261057887 0.218106292465
+88.194 6.46260860481 6.46260860481 88.194 0.261022303082 0.261022303082
+142.562 7.15544567143 7.12807683201 139.883 0.26903192315 0.270064893428
+251.218 7.97279602813 7.39427403865 168.228 0.318493929653 0.343412635784
+90.8328 6.50514144805 6.39115592934 83.9324 0.160129565621 0.162985457701
+50.1923 5.64939415221 5.61436237776 48.9882 0.219204023285 0.220571784286
+139.164 7.12064224192 7.12064224192 139.164 0.378993545422 0.378993545422
+107.757 6.75163778101 6.66194907372 101.262 0.213682116169 0.216558882797
+122.352 6.93489387408 6.69649466194 103.716 0.266583243296 0.276073766081
+126.876 6.98727538302 6.90037173981 119.459 0.157973158939 0.159962681179
+156.84 7.29314973674 7.20537296202 147.582 0.353272474385 0.357576084838
+40.7083 5.34725106992 5.34725106992 40.7083 0.268370838231 0.268370838231
+133.315 7.05869530485 7.01976862198 129.766 0.224927895145 0.226175186518
+118.26 6.88581837199 6.79642903524 111.155 0.334026263941 0.338419510165
+155.31 7.27900691381 7.2481647793 152.025 0.222415884072 0.223362300279
+104.885 6.71266455718 6.50944407665 91.1041 0.2679895716 0.276356026381
+151.839 7.2463985858 7.04388034101 131.953 0.305678370225 0.314466913473
+105.243 6.71758046866 6.6525438574 100.604 0.268913147089 0.271542096283
+168.649 7.39787995373 7.00361347958 128.321 0.306539834377 0.32379640915
+101.952 6.67174626686 6.58061886645 95.7114 0.136329165945 0.138217031319
+66.3403 6.05181363109 6.05181363109 66.3403 0.334666058512 0.334666058512
+147.527 7.20483520663 7.14965567819 141.991 0.191975981428 0.193457611398
+128.583 7.00655610587 6.90384570261 119.747 0.155270067535 0.157580062853
+129.489 7.01668573696 6.92552476975 121.56 0.158507465847 0.160593906136
+129.595 7.01786624739 6.94196312627 122.953 0.255884155723 0.258681981887
+110.926 6.79345374891 6.68149143232 102.643 0.247802800642 0.251955253114
+158.438 7.30777458477 7.2669364233 154.016 0.243862419168 0.245232858135
+109.699 6.77740656418 6.48494853313 89.5703 0.31419678307 0.328366420974
+97.5605 6.60822524689 6.5231463373 91.9735 0.211861943887 0.214625178412
+108.41 6.76035403028 6.70193712409 104.108 0.219059667786 0.220969084097
+76.0272 6.24844375403 6.23073523952 75.0997 0.184700540478 0.18522548209
+103.213 6.68948088393 6.37599511748 83.055 0.284574588973 0.298566143467
+151.938 7.24733892568 7.24733892568 151.938 0.383033764224 0.383033764224
+91.9619 6.52296436838 6.47153540844 88.7414 0.166265068386 0.167586368356
+107.372 6.74647401245 6.6689275201 101.753 0.210574380112 0.213022945419
+128.654 7.00735250258 6.95907460114 124.42 0.118633995088 0.119457006861
+161.717 7.33732753542 7.19050621944 146.069 0.310004735819 0.316334652223
+92.9761 6.53878800635 6.48934704361 89.8438 0.138416274632 0.139470838956
+108.665 6.76374352612 6.71803276928 105.276 0.301042246729 0.303090594721
+76.5899 6.25908224969 6.21593287055 74.3331 0.155739375083 0.156820477064
+156.106 7.28638217875 7.04187813996 131.77 0.30275398814 0.313266037822
+157.389 7.29819090343 7.20087899308 147.123 0.2007225841 0.203435127683
+101.204 6.6611225022 6.60105613389 97.0769 0.240875959379 0.243067812288
+59.538 5.89573885428 5.68957593013 51.6099 0.216285223884 0.224122362319
+193.994 7.59986822206 7.2783658213 155.241 0.24328893788 0.254035577926
+101.502 6.66536434439 6.66536434439 101.502 0.267042183632 0.267042183632
+104.502 6.70738674321 6.657582845 100.956 0.351373783542 0.354002332755
+70.3474 6.13642519814 6.13642519814 70.3474 0.451158953306 0.451158953306
+91.1961 6.51090022376 6.41228868969 85.1709 0.211063053125 0.214308891305
+167.773 7.39036674882 6.91856512899 120.975 0.210818239324 0.2251946866
+79.687 6.31627247951 6.2863507564 78.0513 0.178448424808 0.179297802223
+115.167 6.84758357533 6.69597989816 103.679 0.104893924563 0.107268827851
+135.055 7.077403242 6.96659196775 125.07 0.309092536552 0.314008991828
+238.386 7.89715570106 7.50389727482 181.509 0.315134064332 0.331649365869
+81.2464 6.34423198401 6.28440308409 77.946 0.32111799692 0.324175110896
+111.258 6.79776526649 6.59182600052 96.4578 0.158528824186 0.163481520098
+179.008 7.48388025381 7.23142280786 150.271 0.286294770564 0.296289656561
+65.1106 6.02482052803 5.94933649044 61.7915 0.253911493969 0.257133074188
+139.541 7.12454526743 6.96641893087 125.055 0.381757405793 0.390422675659
+64.7281 6.01632025115 5.95018609982 61.8279 0.336324403256 0.340062526502
+55.3569 5.79069124885 5.79069124885 55.3569 0.261064523141 0.261064523141
+131.208 7.03571187626 6.97835581852 126.094 0.190705325652 0.19227275872
+133.166 7.05708196969 6.84510109812 114.969 0.189775969389 0.19565300098
+94.5482 6.56297808743 6.4635734159 88.253 0.1002978724 0.101840374731
+143.101 7.16088994353 7.08892601018 136.138 0.302547989473 0.305619335304
+55.1959 5.78648920121 5.71999931286 52.7098 0.314875599 0.318535746892
+126.366 6.98146453438 6.92825187029 121.79 0.104973513186 0.105779765672
+99.8292 6.64138995988 6.5632679761 94.5672 0.229479283323 0.232210754431
+117.879 6.88116291662 6.66780699123 101.674 0.28693672703 0.296118104207
+141.01 7.13965366757 7.10863944963 138.011 0.297487302191 0.298785206816
+135.059 7.07744597048 6.99765371368 127.792 0.440810749699 0.445837189414
+137.992 7.10844081986 7.02323317047 130.078 0.212338344075 0.214914486819
+115.0 6.84549005094 6.84549005094 115.0 0.280637731244 0.280637731244
+374.922 8.5504466736 7.73878134512 213.602 0.366853418689 0.405330045344
+89.8894 6.49007909417 6.49007909417 89.8894 0.340640810189 0.340640810189
+98.416 6.62082097594 6.56780856704 94.8653 0.325554183993 0.328181911545
+156.519 7.29019398778 7.19574129325 146.6 0.342266509768 0.346759166296
+91.9191 6.5222927672 6.40995432583 85.0332 0.277126491781 0.281983306131
+147.515 7.20471785154 6.90531479324 119.869 0.296882671279 0.309755014163
+147.265 7.20227078019 6.85667451599 115.895 0.303916754637 0.31923503973
+145.494 7.1848158491 6.88981421976 118.588 0.265189072963 0.27654369097
+124.34 6.95814667376 6.91297314181 120.507 0.331833329643 0.334001728567
+75.3801 6.23611180378 6.05589192675 66.5281 0.196066740414 0.20190157437
+56.1704 5.81173817154 5.81173817154 56.1704 0.214661447253 0.214661447253
+148.601 7.2153000142 7.09708401565 136.91 0.309742140145 0.314901509304
+127.636 6.99589149142 6.90477308966 119.824 0.222850593213 0.225791426985
+72.7251 6.18438146998 6.18438146998 72.7251 0.275474245354 0.275474245354
+60.4585 5.91787328045 5.83529250438 57.095 0.156346107239 0.158558709754
+101.068 6.65918247535 6.63066756523 99.09 0.252975746519 0.254063658197
+102.559 6.68031028994 6.62830992225 98.9282 0.3594705765 0.362290692392
+95.3306 6.57486747148 6.46376303169 88.2646 0.332460096384 0.338174692135
+97.7031 6.61033243276 6.58000223313 95.6705 0.271585757154 0.272837618466
+57.0163 5.83330251535 5.73198692907 53.1496 0.297589933653 0.302849976806
+134.042 7.06654130761 7.03117461082 130.796 0.226341519223 0.227480013475
+139.523 7.12435915592 6.99630964916 127.673 0.217574880298 0.221557030532
+73.6287 6.20219632417 5.99088680714 63.597 0.346461929629 0.358682274525
+111.011 6.79455882905 6.74158832948 107.009 0.237757488606 0.239625614088
+66.5804 6.05702563278 5.99127466772 63.6141 0.0876438283459 0.0886056714619
+136.175 7.08931805695 6.91455256477 120.639 0.208576433122 0.213848207782
+84.1061 6.39413853414 6.3268500995 80.2734 0.260031937298 0.262797474926
+144.668 7.17660202839 7.08185088906 135.472 0.292299267936 0.296210065988
+60.7181 5.92405474131 5.89129036904 59.3547 0.248730474336 0.250113787218
+108.536 6.76202983527 6.51762372503 91.6221 0.11601677447 0.120367318437
+141.422 7.14386275704 6.85458168535 115.727 0.226853543524 0.236427349658
+115.097 6.84670641993 6.75264156258 107.832 0.207112859724 0.209997959047
+106.672 6.73703772711 6.73703772711 106.672 0.271222926295 0.271222926295
+114.176 6.83511561526 6.67508197943 102.188 0.100527887048 0.102938021233
+129.907 7.02133536185 6.98043665652 126.276 0.0903962023831 0.0909258379669
+119.36 6.89917563048 6.80039519186 111.461 0.243493207312 0.24703011438
+66.4495 6.05418643885 6.01525223472 64.6802 0.148899680515 0.149863445679
+114.029 6.83325696886 6.63879645219 99.6499 0.102585508785 0.105590395466
+94.6071 6.56387655277 6.23212924064 75.1723 0.158296241009 0.166722631163
+79.4996 6.31287569642 6.16453891711 71.7317 0.288998041974 0.29595217745
+101.348 6.66317380874 6.53421571497 92.6819 0.235171569521 0.239812872875
+88.7739 6.47206367377 6.39626397379 84.2301 0.175785231891 0.177868396047
+129.381 7.01548195843 6.97487342579 125.79 0.113491369948 0.114152130039
+119.568 6.9016875223 6.74788414693 107.477 0.243651974801 0.249205492811
+131.716 7.04128679519 6.98716166948 126.866 0.0957145434176 0.0964559834958
+75.0164 6.22913412533 6.11293986706 69.2115 0.340133072749 0.346598294223
+160.454 7.32601594517 7.02363239121 130.114 0.327835085165 0.341949140776
+109.041 6.76872688785 6.74414763753 107.199 0.186476108276 0.1871557261
+142.165 7.15142251731 7.07639875827 134.961 0.0984543924848 0.0994982028847
+136.018 7.08765377355 6.98326726163 126.524 0.211130026667 0.21428601744
+119.933 6.90608486592 6.86331902873 116.43 0.324623850783 0.326646605472
+249.648 7.96375153866 6.9566839768 124.214 0.569913757476 0.652415946755
+138.27 7.11134436328 6.80105515919 111.512 0.207430237706 0.216893969709
+143.583 7.16574113624 6.98140744927 126.361 0.216797169054 0.222521376069
+74.1574 6.21251875804 6.16220399284 71.6157 0.339733303453 0.342507246253
+180.445 7.49541535753 7.06557231159 133.952 0.238723565536 0.253246616186
+148.628 7.21556212029 7.12859241905 139.933 0.352056085738 0.356351213134
+99.8293 6.64139140505 6.57849648042 95.5707 0.285482430892 0.28821183814
+49.4989 5.62932455983 5.51051891858 45.586 0.232240683141 0.237247743945
+26.1852 4.71067971888 4.53952486792 23.2559 0.368204087666 0.382086579244
+264.443 8.04681297646 7.75172480306 215.527 0.211445629027 0.219494818856
+96.7452 6.5961181788 6.57428925215 95.2924 0.204351877947 0.205030397248
+194.45 7.60325542455 7.34688599353 162.792 0.318228957548 0.329333550276
+141.961 7.14935083194 7.08486152476 135.755 0.309503612753 0.312320841218
+97.5434 6.60797235512 6.60797235512 97.5434 0.462650604234 0.462650604234
+156.212 7.28736147344 7.17712050285 144.72 0.24912148948 0.252948009432
+270.936 8.08180829085 7.49852214529 180.834 0.355864112527 0.38354564797
+126.357 6.98136177955 6.98136177955 126.357 0.316031398552 0.316031398552
+113.168 6.8223222613 6.73718648993 106.683 0.20122213971 0.203764922533
+96.9141 6.59863467302 6.33143651317 80.529 0.299802208042 0.312454407608
+127.479 6.99411579693 6.93369065495 122.25 0.289154888834 0.291674791449
+116.25 6.861086906 6.76856811002 109.029 0.273826955822 0.277569865673
+103.779 6.69737072922 6.69737072922 103.779 0.30729644417 0.30729644417
+88.2696 6.46384475495 6.39606698809 84.2186 0.277304672556 0.280243211424
+109.719 6.77766956813 6.59523509945 96.686 0.285403735376 0.293298446943
+119.363 6.89921189079 6.76985106414 109.126 0.314961976097 0.320980386429
+67.9868 6.0871827615 6.04337731689 65.9535 0.203722207793 0.20519888903
+104.63 6.7091527569 6.68540758696 102.922 0.241553594818 0.242411542682
+127.785 6.99757468572 6.96980667657 125.349 0.25068652208 0.251685267951
+143.698 7.16689617217 6.91473193529 120.654 0.313336413266 0.324763065561
+165.953 7.37463089961 7.17236749928 144.244 0.332253508443 0.341623179531
+121.297 6.92240005896 6.86883489864 116.876 0.35376299543 0.356521741541
+106.672 6.73703772711 6.69921845942 103.912 0.211215190803 0.212407569271
+167.618 7.38903327387 6.88703779142 118.36 0.218884429495 0.234838893244
+144.075 7.1706762095 7.1706762095 144.075 0.608208817922 0.608208817922
+120.316 6.91068469917 6.88237404724 117.978 0.194975144578 0.195777175014
+190.219 7.57151754658 7.10527997456 137.69 0.632988650046 0.67452439422
+190.818 7.576053458 7.27592893012 154.979 0.197296324233 0.205434593138
+78.4788 6.29423107672 6.09663293829 68.4336 0.230595835744 0.238069683741
+94.2895 6.55902521742 6.55902521742 94.2895 0.238549440825 0.238549440825
+118.392 6.88742778805 6.79229575713 110.837 0.346167445604 0.351015822841
+78.3926 6.29264557005 6.14778087021 70.9033 0.17044322027 0.174459499716
+77.3339 6.27302906584 6.19016839316 73.0174 0.286140635196 0.289970871146
+95.987 6.58476712254 6.40706717532 84.8632 0.289737592969 0.297773462356
+60.5385 5.91978102394 5.86991581129 58.4818 0.277018454483 0.279371739365
+130.885 7.0321559573 6.98276546258 126.48 0.154752818792 0.155847416387
+173.673 7.44022967328 7.19563303785 146.589 0.424006743 0.438419737963
+130.256 7.02520601887 6.83048351646 113.81 0.391755097155 0.402923198603
+75.7324 6.24283874409 6.24283874409 75.7324 0.525741864125 0.525741864125
+126.707 6.98535241896 6.91269776234 120.484 0.111062580732 0.112229883852
+123.543 6.94886945903 6.88100380372 117.866 0.308345153405 0.311386286137
+145.931 7.18914257608 7.13279273726 140.341 0.281289886704 0.283512107419
+133.87 7.06468888158 7.01067915088 128.951 0.379649561195 0.382574352091
+131.083 7.03433678604 6.97668440265 125.948 0.221845657399 0.223678896537
+68.7254 6.10277149352 6.10277149352 68.7254 0.342765795928 0.342765795928
+101.635 6.6672534977 6.49601327506 90.2599 0.297120731381 0.304953076858
+124.73 6.962664693 6.91038489595 120.291 0.113759861433 0.114620499814
+79.057 6.3048213047 5.92251423593 60.6533 0.363132646671 0.386573397033
+94.1267 6.55653211108 6.46852955704 88.5567 0.0979855317901 0.0993185978262
+144.105 7.17097658323 7.09773719544 136.972 0.332018141972 0.33544413603
+146.522 7.19497348861 7.05691945339 133.151 0.14947209659 0.152396209047
+93.0986 6.54068756785 6.49940264859 90.4722 0.286955636988 0.288778410702
+94.6267 6.56417540871 6.49396909952 90.1321 0.372454671675 0.376481279661
+180.774 7.4980433854 7.4135263868 170.488 0.328276466125 0.332018941727
+99.7065 6.63961565379 6.60769279158 97.5245 0.240478562682 0.241640354591
+137.395 7.10218569316 6.96591123624 125.011 0.235088117418 0.239687157578
+227.2 7.82781902462 7.54371239516 186.588 0.362527682151 0.376180975445
+142.978 7.15964936662 6.73707830031 106.675 0.219273221778 0.233026738511
+79.5877 6.31447357942 6.1824281235 72.6267 0.246313832279 0.251574649167
+110.425 6.78692302215 6.67062792599 101.873 0.228264188447 0.232243724712
+78.7965 6.30005964405 6.18872334263 72.9443 0.277045305728 0.282029403087
+113.737 6.82955784623 6.76570711691 108.813 0.220088468965 0.222165533345
+123.686 6.95053840089 6.88847538191 118.478 0.287519407275 0.290109867637
+102.944 6.68571593599 6.68571593599 102.944 0.356349856726 0.356349856726
+32.9732 5.0432220001 4.69227653751 25.8533 0.0811550240671 0.0872247830072
+121.635 6.9264146082 6.875042803 117.38 0.241713632788 0.243519769276
+258.841 8.01592234579 7.61070744329 195.457 0.177570349615 0.187024681218
+148.051 7.2099504249 6.9814873678 126.368 0.338254168217 0.349323239502
+121.751 6.92778981168 6.92778981168 121.751 0.392838919865 0.392838919865
+123.441 6.94767784417 6.85887618323 116.072 0.215288058825 0.218075386763
+129.29 7.01446688327 6.97640946395 125.924 0.319427846101 0.321170375628
+182.872 7.51469038704 7.4717564907 177.51 0.253170810535 0.254625570115
+115.603 6.85303502731 6.67926895795 102.485 0.290677870924 0.298240068434
+183.05 7.51609396342 7.17630282373 144.638 0.303797123335 0.3181816293
+153.264 7.25987505363 6.75773001527 108.213 0.242901589369 0.260950820048
+94.6584 6.56465863146 6.49682342556 90.3106 0.209465994201 0.211653089019
+176.889 7.46670052532 7.25670876758 152.928 0.377769169055 0.388700903311
+83.7896 6.38869928202 6.31836926915 79.8029 0.211792219094 0.214149686482
+131.064 7.03412765753 6.93549510754 122.403 0.362524136701 0.367679742679
+103.046 6.68714469376 6.65250083575 100.601 0.301453587881 0.303023450937
+133.467 7.06033926636 6.48062219659 89.3021 0.299566867009 0.326364298039
+74.9159 6.22720004076 6.02129093877 64.9515 0.308480079583 0.31902912244
+141.981 7.14955406993 7.07426993451 134.762 0.0846444372636 0.0855452204308
+105.701 6.72384521539 6.72384521539 105.701 0.197248924223 0.197248924223
+108.521 6.76183043672 6.5792721846 95.6221 0.230603370733 0.237002034159
+107.158 6.74359574982 6.70206183779 104.117 0.325480895585 0.327497960662
+81.7607 6.35333564295 6.1922178417 73.1212 0.193885861408 0.198930655452
+157.358 7.29790671615 6.76254814257 108.575 0.322391833095 0.347914051683
+164.68 7.36352154355 7.20029051026 147.063 0.334987831504 0.34258202646
+138.721 7.11604239346 6.79999388766 111.43 0.253069567894 0.264831675349
+87.4974 6.45116824254 6.33910887288 80.9584 0.277455257869 0.282359963235
+190.3 7.57213175139 7.16696644885 143.705 0.32278393504 0.341031662531
+133.377 7.05936609433 6.84434798817 114.909 0.333573110296 0.344052451581
+135.659 7.08384095302 7.0055908672 128.497 0.334358609465 0.338093282297
+101.881 6.67074121516 6.54251034454 93.2163 0.0710596929245 0.072452437576
+76.3284 6.25414804468 6.17604346283 72.306 0.161856317825 0.163903214046
+128.757 7.00850705773 6.92354142227 121.393 0.260755655374 0.263955646334
+87.7998 6.45614574832 6.34744597579 81.4276 0.267750848278 0.272336071439
+304.947 8.25241471284 7.95310223973 247.812 0.387610486082 0.402198083436
+121.325 6.92273304988 6.82350736256 113.261 0.198304154712 0.201187842675
+134.206 7.06830536188 7.04391314084 131.956 0.272537181817 0.273480945184
+66.631 6.05812164067 6.05812164067 66.631 0.240788717875 0.240788717875
+148.057 7.21000889121 7.04283035254 131.857 0.221498938591 0.226756749303
+114.582 6.84023661476 6.51784887736 91.6364 0.310726253346 0.326095485688
+87.9983 6.45940374812 6.40006310095 84.4522 0.1933209759 0.195113425699
+122.525 6.93693233652 6.87305031685 117.218 0.249640429169 0.25196072861
+287.084 8.1653291171 7.53105389257 184.958 0.29980652169 0.325056619695
+147.583 7.20538273754 7.10845127474 137.993 0.159629676591 0.161806400812
+97.2999 6.60436641716 6.53347925085 92.6346 0.284602826288 0.287690719753
+98.5167 6.62229639778 6.45850340488 87.9434 0.245338257029 0.251560238326
+123.515 6.94854244706 6.65662507472 100.889 0.182390403526 0.190388890258
+47.9754 5.58422292998 5.49657419694 45.1475 0.241040723907 0.244884375117
+147.314 7.20275073332 6.84325527996 114.822 0.303321957457 0.319256313279
+85.5206 6.41820006972 6.34758948056 81.4357 0.270171349995 0.273176736253
+110.457 6.78734103939 6.74566760205 107.312 0.311818595211 0.313744950533
+117.687 6.87881115525 6.77113287838 109.223 0.150805115186 0.15320330102
+124.073 6.95504538901 6.8162284899 112.691 0.328707726353 0.335402071672
+68.5951 6.10003361796 6.10003361796 68.5951 0.264718911223 0.264718911223
+123.815 6.95204229524 6.82597638024 113.455 0.158188512715 0.161110025842
+143.517 7.16507782816 7.05292664229 132.783 0.332109344794 0.337390337883
+150.189 7.230635342 7.20062401333 147.097 0.270234603818 0.271360908913
+28.4212 4.82889556423 4.65214800986 25.1441 0.206000576363 0.21382708962
+130.343 7.02616929558 6.94923142155 123.574 0.138542001102 0.140075858068
+82.0732 6.35883929936 6.31565136073 79.6527 0.109576729445 0.1103260414
+40.8681 5.35290326743 5.13165532924 35.0576 0.21763066206 0.227013664654
+76.0451 6.24878338513 6.06006251978 66.7207 0.240486245432 0.247975404528
+131.024 7.03368728787 6.98400823645 126.589 0.248165926507 0.249931194733
+104.809 6.7116187969 6.64212969386 99.8804 0.246682503943 0.249263264441
+135.018 7.07700794357 6.82219477307 113.158 0.293309062492 0.304264336364
+168.498 7.3965876571 7.17251751801 144.259 0.24777050632 0.255510880836
+130.387 7.02665622521 6.67936749452 102.492 0.408007307729 0.429221343359
+112.202 6.80995458198 6.66358656648 101.377 0.100241150654 0.102442982677
+98.9668 6.62887272605 6.58739799731 96.1622 0.306473491205 0.308403070217
+52.5396 5.71533331172 5.58782101213 48.0952 0.214125766438 0.219012048375
+141.673 7.14642102582 7.02216804142 129.982 0.284319273324 0.28935012961
+74.2327 6.21398293855 6.17345128377 72.1762 0.285063494042 0.286935071965
+85.4566 6.41712001358 6.19896358177 73.4639 0.265048543338 0.2743762388
+132.215 7.04674205193 6.96045378987 124.539 0.127122299537 0.128698225853
+81.0037 6.33991590226 6.20928569133 73.9914 0.138086450646 0.140991496906
+89.3013 6.48060927236 6.17206141271 72.1067 0.274653128067 0.288383327614
+95.5464 6.57812961121 6.46891723555 88.5805 0.162537661138 0.165281725324
+100.167 6.64626348096 6.52419848321 92.0406 0.0673708537198 0.068631333935
+117.071 6.87123993566 6.79719460067 111.214 0.302471189822 0.305766163982
+108.193 6.75746335075 6.71841642833 105.304 0.219833300929 0.22111095526
+105.535 6.72157772854 6.66843119063 101.718 0.332591118492 0.33524182688
+96.6646 6.59491574514 6.48759407153 89.7347 0.239135890161 0.243091819535
+92.3033 6.52831032248 6.51376390957 91.3773 0.176434733442 0.176828744113
+104.832 6.71193535698 6.63349950715 99.2847 0.295773124163 0.29927040585
+117.256 6.87351793724 6.78265755512 110.099 0.163118190162 0.165303319069
+107.057 6.74223532025 6.52409973016 92.0343 0.126903035264 0.131146083289
+65.0459 6.02338621815 5.95919982562 62.2154 0.31672789727 0.320139365543
+148.379 7.21314311233 6.97877908915 126.131 0.319201925753 0.329921486663
+61.8113 5.94979870266 5.90646734298 59.9824 0.154791503856 0.155927094039
+132.971 7.0549678286 6.97773784924 126.04 0.0650903850233 0.06581080892
+128.169 7.00190355193 6.90359267537 119.726 0.225170365354 0.228376912587
+91.1032 6.50942982447 6.44641339567 87.2095 0.244000345448 0.246385552454
+134.492 7.07137654915 6.9876960452 126.913 0.130117699866 0.131675912276
+82.6321 6.36863042756 6.36863042756 82.6321 0.47468968532 0.47468968532
+155.443 7.28024183963 7.11588638539 138.706 0.316966772111 0.324287745914
+178.752 7.48181557362 7.40365970578 169.326 0.357869399503 0.361647205966
+145.239 7.18228509181 7.04509343834 132.064 0.181903530395 0.185445803655
+83.8586 6.38988683981 6.38988683981 83.8586 0.32997233753 0.32997233753
+90.3415 6.49731696289 6.40833483637 84.9378 0.298790152386 0.302938965428
+146.291 7.19269720563 6.91702591049 120.846 0.252405860281 0.262465248709
+104.531 6.70778704513 6.66589014674 101.539 0.320712789217 0.322728554681
+91.9807 6.52325927198 6.35462670371 81.8339 0.113857335958 0.116878765205
+156.229 7.2875184683 7.02733101502 130.448 0.152985117132 0.158649402467
+106.804 6.73882186931 6.59885348544 96.9288 0.101508810687 0.103661915648
+304.523 8.25040738583 7.81114988211 224.59 0.203869352433 0.21533387996
+128.455 7.00511923677 6.90020265323 119.445 0.227000001563 0.230451503761
+128.977 7.01097000779 6.91833852549 120.956 0.12037811047 0.121989885142
+69.0666 6.10991629951 6.05451641059 66.4647 0.227221951944 0.229301072727
+141.224 7.14184147483 7.00763281934 128.679 0.170260786378 0.173521583828
+114.845 6.84354423733 6.7561826745 108.097 0.15010033553 0.15204122442
+87.3135 6.44813282867 6.36108754988 82.2012 0.215290194995 0.218236231329
+129.621 7.01815565909 6.96033794238 124.529 0.10363200787 0.104492852002
+89.7724 6.48820005986 6.39262825572 84.0181 0.110135910015 0.111782476529
+217.529 7.76506393725 7.46538682197 176.728 0.200961457841 0.209028494607
+60.1866 5.91137041467 5.88868480943 59.2476 0.201743017358 0.202520213387
+132.806 7.05317651699 6.90974910702 120.238 0.193587612806 0.197605959851
+67.0086 6.06627436033 6.03384143254 65.519 0.165264212368 0.166152535723
+122.773 6.93984951067 6.93984951067 122.773 0.30059825037 0.30059825037
+282.459 8.14189765982 7.45142543917 175.026 0.316866841234 0.346228706732
+130.972 7.03311460628 6.96858616128 125.243 0.163842056586 0.165359218446
+139.027 7.11922128124 7.02182392547 129.951 0.245212728055 0.248613991255
+66.9001 6.06393646225 5.99640908505 63.8409 0.180470705789 0.182503041016
+124.003 6.95423121388 6.92376721009 121.412 0.140629408445 0.141248166226
+120.169 6.90892096174 6.86547346958 116.604 0.189685810858 0.190886219368
+222.546 7.79795976007 7.17377705977 144.385 0.320181339627 0.348039976924
+130.848 7.03174806286 6.96536872865 124.964 0.290982453085 0.293755489554
+100.987 6.65802577738 6.5741984113 95.2864 0.219997161621 0.222802337469
+277.489 8.11628677219 7.52628795443 184.348 0.295660513874 0.318837856371
+139.81 7.12732374387 6.89555710658 119.061 0.0629554061483 0.0650714009195
+219.905 7.78073659703 7.47936800655 178.449 0.32186075255 0.334829591795
+203.139 7.66632343436 7.30944906857 158.622 0.15178689256 0.159197690625
+144.763 7.17754910064 7.09158348307 136.389 0.220965569293 0.223644158873
+50.6689 5.6630286038 5.50751558648 45.4912 0.268101663957 0.275671919194
+121.956 6.93021692747 6.86292245923 116.398 0.2383591493 0.240696382788
+106.623 6.73637486996 6.71646967468 105.162 0.226155297743 0.226825540532
+124.85 6.96405201104 6.92063868618 121.149 0.322326278101 0.32434823822
+109.334 6.77259830079 6.44288711356 86.9966 0.290763425081 0.305643082662
+159.009 7.31296461496 7.15932643996 142.946 0.245274482331 0.250538039477
+166.569 7.37997611684 7.08011399231 135.309 0.148570191427 0.154862543965
+96.9735 6.59951865 6.59951865 96.9735 0.307370226965 0.307370226965
+91.0664 6.50884694809 6.47135494119 88.7303 0.283243511032 0.284884491595
+126.311 6.98083647383 6.91298511363 120.508 0.228038337415 0.230276547265
+125.754 6.97446047997 6.84587889894 115.031 0.313780344875 0.319673871979
+108.184 6.75734333564 6.7266950045 105.91 0.185709798697 0.186555934191
+127.006 6.98875284398 6.92531112683 121.542 0.055075648554 0.0555801881558
+112.014 6.80753524767 6.74206012223 107.044 0.274557912983 0.277224266215
+124.697 6.96228294654 6.68049314904 102.572 0.281299506957 0.293164997922
+114.197 6.83538094081 6.74348803979 107.15 0.167491620391 0.169774013539
+64.2335 6.00525400405 6.00525400405 64.2335 0.313899655285 0.313899655285
+115.548 6.85234847844 6.78890752619 110.577 0.172160968197 0.173769777232
+128.958 7.01075746428 6.88288755322 118.02 0.32591417159 0.331968987364
+130.304 7.02573756141 6.99165788949 127.262 0.295715620426 0.297157036966
+131.322 7.03696481684 6.94745576791 123.422 0.277898230716 0.281478592673
+131.014 7.03357717445 6.89789384748 119.254 0.178939863601 0.182459656244
+124.751 6.96290756998 6.83167460125 113.904 0.132236968763 0.134777173178
+87.6242 6.45325746241 6.40849618781 84.9473 0.31122408731 0.31339788697
+129.062 7.01192047716 6.8068782387 111.963 0.235844352596 0.242948645091
+119.448 6.90023888774 6.8437828976 114.864 0.363230281783 0.366226654624
+67.1897 6.07016818358 6.07016818358 67.1897 0.394299794792 0.394299794792
+189.702 7.56759107872 7.31838011605 159.607 0.219562381875 0.2270390846
+108.328 6.75926238046 6.68219403444 102.693 0.314303968739 0.317928958809
+114.323 6.83697187021 6.83697187021 114.323 0.344879609315 0.344879609315
+72.2976 6.17587585098 6.13636572328 70.3445 0.288311612026 0.29016795976
+99.5784 6.63776092963 6.63776092963 99.5784 0.257983904738 0.257983904738
+327.295 8.35444775265 8.09941093515 274.262 0.382234834639 0.394270766208
+77.2787 6.27199891992 6.18583880091 72.7986 0.0787829171882 0.0798802534977
+197.167 7.62327429666 7.28941952005 156.435 0.29111137463 0.304444250133
+121.378 6.92336314376 6.80079638445 111.492 0.367208488785 0.373826471726
+93.5804 6.54813449025 6.48885077181 89.8129 0.159406685725 0.160863063966
+121.636 6.92642646901 6.86279850891 116.388 0.122942636902 0.124082491028
+130.25 7.02513956228 6.92084111538 121.166 0.249086522164 0.252840305407
+131.885 7.04313667812 6.95013009703 123.651 0.341580259012 0.346151283096
+63.8427 5.9964497614 5.93696295042 61.2638 0.345663346922 0.349126802961
+116.413 6.86310836476 6.76744293319 108.944 0.22131904972 0.224447643875
+94.6005 6.56377590367 6.56377590367 94.6005 0.316902086875 0.316902086875
+142.045 7.15020423917 6.97896208664 126.147 0.247830210272 0.253911197407
+137.259 7.10075693886 7.03583282148 131.219 0.0732303544383 0.07390609763
+98.8994 6.6278898634 6.59045082014 96.3659 0.30761590094 0.309363405828
+71.5815 6.16151487083 5.87222792183 58.5756 0.319407091092 0.335142226734
+119.152 6.89665935755 6.81362729554 112.488 0.292940717863 0.296510545034
+100.896 6.65672517002 6.61623270271 98.1035 0.308483440386 0.310371411409
+174.158 7.44425293485 7.3780346921 166.345 0.396645602354 0.400205517138
+120.142 6.90859677545 6.84700721901 115.121 0.281172886321 0.283702066267
+108.026 6.75523477584 6.72591834739 105.853 0.276433541253 0.277638439039
+80.4487 6.32999720299 6.26925948516 77.1321 0.232194795747 0.234444340851
+106.67 6.73701067768 6.62086348685 98.4189 0.3006379242 0.305911896457
+129.753 7.01962408508 6.94210392394 122.965 0.318525573263 0.322082442195
+61.6391 5.94577389193 5.94577389193 61.6391 0.271103953848 0.271103953848
+138.055 7.10909932938 7.07873790918 135.18 0.203583549662 0.204456740021
+137.017 7.09821109241 7.05440353402 132.919 0.107416394269 0.108083445698
+98.5635 6.62298158208 6.38179556292 83.3896 0.196852769721 0.204292390031
+107.609 6.74965493414 6.65733988885 100.939 0.234204400012 0.237452031972
+84.2471 6.39655512079 6.35543038741 81.8795 0.113004404282 0.113735633437
+109.564 6.7756300323 6.54031560581 93.0746 0.259954207365 0.26930711614
+129.435 7.01608397325 6.91290130875 120.501 0.252929832179 0.25670508845
+121.084 6.91986443015 6.91986443015 121.084 0.532297263858 0.532297263858
+125.459 6.97107215825 6.871400129 117.084 0.337303766183 0.342196473669
+75.0221 6.22924374201 6.10467003483 68.8159 0.230734839261 0.23544328282
+124.364 6.95842511465 6.83620187743 114.262 0.170798331317 0.173852004298
+172.865 7.43350198566 6.94770121863 123.443 0.486436382311 0.520449239255
+148.98 7.21897485712 7.13787234749 140.836 0.220174702819 0.222676389608
+148.785 7.21708527592 6.655208697 100.79 0.333177166929 0.361306179144
+101.736 6.66868646711 6.56889551708 94.9368 0.146701706467 0.148930315923
+107.361 6.74632620428 6.67232633009 101.993 0.193502397947 0.195648449023
+62.4898 5.96554881762 5.96554881762 62.4898 0.239004666588 0.239004666588
+186.381 7.54211098645 7.37750554763 166.284 0.390458999111 0.399170842765
+99.9229 6.64274344288 6.30220205117 78.9136 0.301820738969 0.318129713779
+120.882 6.91745562506 6.87915435932 117.715 0.325737399735 0.327551017232
+78.0413 6.28616590523 6.20179458726 73.6082 0.270411094245 0.274089858527
+180.426 7.49526344061 7.32643847585 160.501 0.358777235751 0.367044629844
+129.184 7.01328358682 6.9052305416 119.862 0.266573468405 0.27074480995
+113.195 6.82266642326 6.76097935979 108.457 0.267879755539 0.270323885983
+71.9888 6.16970056476 6.16970056476 71.9888 0.237471885459 0.237471885459
+98.6581 6.62436559845 6.62436559845 98.6581 0.255921570256 0.255921570256
+111.741 6.8040148263 6.69274799691 103.447 0.290167425582 0.294991454434
+143.607 7.16598226358 7.08634856562 135.895 0.203634068898 0.205922431344
+111.692 6.80338204548 6.7828016877 110.11 0.221230597742 0.221901854999
+81.1998 6.34340426886 6.2294533367 75.033 0.189380956893 0.192845167219
+141.005 7.13960251089 7.02115766132 129.891 0.318814346342 0.324192649908
+132.826 7.05339376417 6.96390178267 124.837 0.120951392003 0.122505718883
+118.672 6.89083576901 6.83613874504 114.257 0.225626199395 0.227431470192
+88.7852 6.47224730225 6.38883185505 83.7973 0.226162196084 0.229115070906
+82.164 6.36043451315 6.36043451315 82.164 0.292144432793 0.292144432793
+106.897 6.74007755503 6.70589498579 104.394 0.294072948696 0.29557195352
+88.2436 6.46341974343 6.35049901509 81.6001 0.342894716226 0.348991862452
+78.8153 6.30040381456 6.19059313271 73.0389 0.0999784057733 0.10175185408
+66.1566 6.04781318657 6.04781318657 66.1566 0.16539891792 0.16539891792
+186.754 7.54499533356 7.36353030412 164.681 0.364996646141 0.373991533702
+84.8823 6.40739184343 6.14881211275 70.954 0.278058895344 0.289752274968
+154.503 7.27149104113 7.1997606704 147.009 0.320702829707 0.323897954368
+276.862 8.11302324357 7.41199392401 170.307 0.355787093722 0.389437577893
+92.1464 6.52585589825 6.45749908082 87.8822 0.264287843622 0.267085501918
+112.694 6.81626689605 6.70778704513 104.531 0.460692705684 0.468143132433
+104.875 6.71252700044 6.62604774528 98.7732 0.326441942097 0.3307024692
+131.905 7.0433554423 6.66106547981 101.2 0.336864560754 0.356197795158
+110.813 6.79198333051 6.74183098502 107.027 0.198289146618 0.199764215603
+159.27 7.31533073707 7.0141544087 129.262 0.334007352795 0.348349082718
+120.119 6.90832055928 6.90832055928 120.119 0.457514705687 0.457514705687
+122.56 6.93734439215 6.85602705944 115.843 0.19015197776 0.19240731478
+77.2016 6.27055884249 6.0722430301 67.2864 0.27687045019 0.285912872896
+131.284 7.03654729087 7.00858548912 128.764 0.160745682407 0.161387001388
+90.3586 6.49759001293 6.46189521096 88.1504 0.185155350647 0.186178128541
+110.984 6.79420789532 6.67748005334 102.358 0.290875599768 0.295960344428
+100.762 6.65480785294 6.50939815246 91.1012 0.173661150625 0.177540467162
+108.896 6.7668071513 6.7668071513 108.896 0.324071287827 0.324071287827
+92.3106 6.52842441653 6.4034500931 84.6507 0.107564056582 0.109663353836
+210.001 7.71425238763 7.19075311844 146.094 0.302249897808 0.324254213352
+167.654 7.38934309409 7.07834297633 135.143 0.34174561925 0.356760846427
+119.523 6.90114445478 6.86687089675 116.717 0.284640956429 0.286061641117
+152.445 7.25214502236 7.16031517467 143.044 0.173154620084 0.175375299202
+199.503 7.64026663072 7.38591415559 167.256 0.328019963534 0.339316153533
+118.71 6.89129766092 6.8154345338 112.629 0.286474081008 0.289662846084
+134.12 7.06738057802 6.99760855538 127.788 0.195056474786 0.197001351335
+105.615 6.72267093819 6.55306400764 93.9007 0.14182260894 0.14549327313
+108.925 6.76719130303 6.68351400079 102.787 0.246861222202 0.24995191388
+60.5547 5.92016703505 5.89453889614 59.4885 0.153376770898 0.15404361885
+159.191 7.31461496396 7.17356721249 144.364 0.223087328297 0.227473704712
+114.044 6.8334467364 6.70766282539 104.522 0.384710847411 0.391925049474
+118.733 6.89157715525 6.8391155857 114.493 0.222712245795 0.224420629551
+93.4925 6.54677873104 6.54677873104 93.4925 0.461774167594 0.461774167594
+99.8386 6.64152579885 6.5426496295 93.2253 0.265339480215 0.269349438391
+174.108 7.44383868395 6.7590359594 108.311 0.304720874211 0.335594165334
+85.4528 6.41705585981 6.40731875698 84.878 0.135500354239 0.135706272024
+99.4591 6.63603147122 6.59017233244 96.3473 0.146738414555 0.147759525533
+99.7042 6.63958237375 6.60403869656 97.2778 0.207596177781 0.208713483701
+137.097 7.09905319173 6.97653548402 125.935 0.274275911578 0.279092579685
+135.378 7.08084949834 7.08084949834 135.378 0.252084917438 0.252084917438
+93.6685 6.54949205703 6.39896937591 84.3882 0.323609791051 0.331222050233
+58.0356 5.85886623974 5.83809960945 57.2062 0.179485209699 0.180123654269
+113.178 6.82244973827 6.64747281736 100.251 0.246710855781 0.253204858402
+88.1308 6.46157439601 6.35006578847 81.5756 0.232961319688 0.237052173741
+119.338 6.89890969368 6.8614839803 116.282 0.31683389207 0.318562050944
+135.526 7.08242584189 7.01190929881 129.061 0.162497413042 0.164131597875
+100.215 6.64695465446 6.45107590436 87.4918 0.260982596017 0.268907002032
+155.414 7.27997266019 7.09522821496 136.734 0.230078538738 0.236069287832
+83.3015 6.38027056915 6.38027056915 83.3015 0.339587537416 0.339587537416
+232.122 7.85873945432 7.15431181144 142.45 0.377065340253 0.414191936891
+73.5233 6.2001296165 6.0992804743 68.5593 0.20786292249 0.211299852062
+109.35 6.77280941016 6.3567477419 81.9543 0.291975093781 0.311085439125
+80.9498 6.338955611 6.28266590342 77.8522 0.159169641811 0.160595726331
+165.846 7.3737004063 7.00923518525 128.822 0.283563303526 0.298307988127
+128.041 7.00046203926 6.95502213324 124.071 0.373904306302 0.376347170784
+94.045 6.5552793383 6.29789754789 78.6785 0.217687184517 0.226583600643
+140.488 7.13430309545 7.08775983613 136.028 0.32728234029 0.329431508319
+52.3405 5.70985580116 5.70985580116 52.3405 0.266804040048 0.266804040048
+132.684 7.05185060033 6.85402058982 115.682 0.194171901479 0.199776353466
+125.793 6.97490783261 6.84605447336 115.045 0.415868192699 0.423695476843
+66.0307 6.04506503512 5.95943633111 62.2256 0.142702619076 0.144753054663
+136.477 7.09251402897 6.96621125921 125.037 0.197113069826 0.200686881436
+65.2604 6.02813592504 5.94152891361 61.458 0.124458926952 0.126273109104
+64.5423 6.01217308485 5.80980799316 56.0953 0.226146469423 0.234023519934
+110.596 6.78915539737 6.74889054265 107.552 0.171810389159 0.172835434729
+262.665 8.03708016455 7.14723545785 141.753 0.309001934755 0.347473276244
+130.994 7.03335692239 6.95931808321 124.441 0.140142593619 0.14163354357
+107.18 6.74389191094 6.66894169844 101.754 0.304711723778 0.308136286397
+267.689 8.06441404608 7.44582600438 174.348 0.0856521309314 0.0927679813298
+133.34 7.058965822 7.058965822 133.34 0.29310760198 0.29310760198
+131.446 7.03832643011 6.99058052775 127.167 0.0957434122903 0.0963973430471
+98.9063 6.62799051364 6.58523448321 96.0181 0.287677304102 0.289545109964
+89.8547 6.48952206317 6.32499956682 80.1705 0.291131702971 0.298704464682
