@@ -76,3 +76,4 @@ model/
 #don't want .pyc file
 >>>>>>> Stashed changes
 *.pyc
+*.binlm
