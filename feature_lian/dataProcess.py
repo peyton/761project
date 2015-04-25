@@ -84,10 +84,10 @@ def getDocumentsForNGram(fileName):
                 curDoc = []
             else:
                 line = line.strip()
-                line = line[:-4]
+                #line = line[:-4]
                 #line = line.strip("<s>")
                 #substitute the <UNK> with unknown
-                line = re.sub('<UNK>', 'BLABLA', line)
+                #line = re.sub('<UNK>', 'BLABLA', line)
                 curDoc.append(line)
         docs.append(" ".join(curDoc))
     return docs
