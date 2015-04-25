@@ -13,6 +13,14 @@ def getLabel(fileName):
             labels.append(int(line))
     return labels
 
+def getFeature(fileName):
+    feat = []
+    with open(fileName) as f1:
+        for line in f1:
+            line = line.strip()
+            feat.append(float(line))
+    return feat
+
 # return an array of docs with
 def getDocuments(fileName):
     docs = []
@@ -25,10 +33,10 @@ def getDocuments(fileName):
                 curDoc = []
             else:
                 line = line.strip()
-                line = line.strip("</s>")
-                line = line.strip("<s>")
+                #line = line.strip("</s>")
+                #line = line.strip("<s>")
                 #substitute the <UNK> with unknown
-                line = re.sub('<UNK>', 'BLABLA', line)
+                #line = re.sub('<UNK>', 'BLABLA', line)
                 curDoc.append(line)
         docs.append(curDoc)
     return docs

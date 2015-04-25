@@ -1,1 +1,3 @@
 ./features/4Gram
+./features/5Gram
+./features/typeToken
