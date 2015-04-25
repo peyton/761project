@@ -4,7 +4,7 @@ import cPickle
 
 fileName = sys.argv[1]
 
-with open(fileName) as f1:
+with open("%s.txt"%fileName) as f1:
     perp = [] #perplexity
     entr = []
     for line in f1:

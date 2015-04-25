@@ -57,18 +57,18 @@ if __name__ =="__main__":
     docs = dp.getDocuments(trainFile)
     label = dp.getLabel(labelFile)
     ############for ratio#########
-    #ratio = getTypeTokenRatio(docs)
+    ratio = getTypeTokenRatio(docs)
     #output it into a single file
-    #fOut = open(trainOut, "w")
-    #for r in ratio:
-    #    fOut.write("%f\n"%r)
-    #fOut.close()
-    #docs = dp.getDocuments(testFile)
-    #ratio = getTypeTokenRatio(docs)
-    #fOut = open(testOut, "w")
-    #for r in ratio:
-    #    fOut.write("%f\n"%r)
-    #fOut.close()
+    fOut = open(trainOut, "w")
+    for r in ratio:
+        fOut.write("%f\n"%r)
+    fOut.close()
+    docs = dp.getDocuments(testFile)
+    ratio = getTypeTokenRatio(docs)
+    fOut = open(testOut, "w")
+    for r in ratio:
+        fOut.write("%f\n"%r)
+    fOut.close()
     #nT = []
     #nF = []
     #for i in range(len(ratio)):
@@ -78,11 +78,11 @@ if __name__ =="__main__":
     #        nT.append(ratio[i])
     #rd.renderCompareHist(nT, nF, "token-type rate distribution", "propopation", "value", "token-type Distribution")   
     #############for lda model#########
-    MWDocs = dp.getDocuments(mwTrainFile)
-    vocab = dp.getVocab(docs)
-    nTopic = 100
-    nWord = 20
-    getLDAFeature(docs, vocab, nTopic, nWord)
+    #MWDocs = dp.getDocuments(mwTrainFile)
+    #vocab = dp.getVocab(docs)
+    #nTopic = 100
+    #nWord = 20
+    #getLDAFeature(docs, vocab, nTopic, nWord)
     
 
 
