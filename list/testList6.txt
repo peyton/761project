@@ -3,4 +3,3 @@
 ./features/cmufeatNor/cmuN5Gram
 ./features/cmufeatNor/cmuN6Gram
 ./features/cmufeatNor/cmuN7Gram
-./features/typeToken
