@@ -24,7 +24,7 @@ def getFeats(fileName):
 #train the SVM model and save it to outname
 def trainSVM(trainData, label, outName, cValue):
     #svmModel = svm.SVC(C=cValue, probability=True, kernel=sklearn.metrics.pairwise.chi2_kernel)
-    svmModel = svm.SVC(C=cValue, probability=True, kernel='rbf', degree=1)
+    svmModel = svm.SVC(C=cValue, probability=True, kernel='rbf', degree=6)
     svmModel.fit(np.array(trainData).T, np.array(label))
     cPickle.dump(svmModel, open(outName, "wb"), cPickle.HIGHEST_PROTOCOL)
     return svmModel

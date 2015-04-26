@@ -6,10 +6,11 @@ import math
 
 def genFeat(inFile, order, targetFile):
     feats = {'perpIncOov':[], 'perpExcOov':[], 'entroInc':[], 'entroExc':[], 'normalInc':[], 'normalExc':[]}
+    #feats = {'normalInc':[], 'normalExc':[]}
     docs = dp.getDocuments(inFile)
     for doc in docs:
         proc = subprocess.Popen(["./genLMFeat.sh", str(order)], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-        docLength = math.sqrt(float(len(" ".join(doc).split(" "))))
+        docLength = float(len(" ".join(doc).split(" ")))
         proc.stdin.write("\n".join(doc))
         proc.stdin.close()
         lines = proc.stdout.read()#.split("\n")[-5:-3]

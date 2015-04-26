@@ -1,0 +1,3 @@
+./features/cmufeat/3GramCMU
+./features/cmufeat/4GramCMU
+./features/typeToken

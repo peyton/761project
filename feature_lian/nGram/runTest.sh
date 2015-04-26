@@ -22,11 +22,13 @@ genFeat(){
     while read line
     do
         echo "${line}" > tmp${kGram}
-        sudo echo "perplexity -include_unks -text tmp${kGram}" | ${path}/evallm -binary ${modelPath}/${trainFile}_${kGram}.binlm | grep "Entropy" >> ${outPath}/cmu{$kGram}Gram${post}.txt
+        str=$(sudo echo "perplexity -include_unks -text tmp${kGram}" | ${path}/evallm -binary ${modelPath}/${trainFile}_${kGram}.binlm | grep "Entropy")
+        lenDoc=$(echo "${line}" | wc -w)
+        echo "${str},docLen = ${lenDoc}" >> ${outPath}/cmu${kGram}Gram${post}.txt
     done < ${testFile}
 }
 
-genFeat ${fA} Train
-#genFeat ${fB} Test
+genFeat ${fA} Test
+genFeat ${fB} Train
 
 
