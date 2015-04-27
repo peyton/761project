@@ -1,0 +1,6 @@
+./features/cmufeatBalUNor/gen/cmuBal3Gram
+./features/cmufeatBalUNor/gen/cmuBal4Gram
+./features/cmufeatBalUNor/gen/cmuBal5Gram
+./features/cmufeatBalUNor/gen/cmuBal6Gram
+./features/cmufeatBalUNor/gen/cmuBal7Gram
+./features/typeTokenBal
