@@ -47,5 +47,5 @@ public class Config {
 	public static final String TESTING_FEATURE_NGRAM_MERGE="/home/ubuntu/761project/submit/tmpDir/tmpFeat/test_merge";
 	
 	public static final String TESTING_PREDICT_INPUT="dummy3";
-	public static final String TESTING_PREDICT="dummy4";
+	public static final String TESTING_PREDICT="/home/ubuntu/761project/submit/tmpDir/tmpFeat/testingSetFeatures.predict";
 }

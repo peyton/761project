@@ -7,7 +7,7 @@ kGram=${2}
 outPath=${3}
 modelPath=/mnt/
 path=~/761project/feature_lian/CMU-Cam-Tool/bin/
-tmpPath=./tmpDir/tmp
+tmpPath=./tmpDir/rawFeat
 
 #test on reviews-test data-set
 genFeat(){
@@ -23,5 +23,4 @@ genFeat(){
 
 echo "generating feature for ${1} gram"
 genFeat ${testFile}
-
 

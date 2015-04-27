@@ -5,6 +5,7 @@
 ./src/ruil/util/SentenceNormalizer.java
 ./src/ruil/util/Config.java
 ./src/ruil/util/StopWords.java
+./src/ruil/eval/Eval.java
 ./src/ruil/training/Predict.java
 ./src/ruil/training/Article.java
 ./src/ruil/training/ArticleBalancer.java

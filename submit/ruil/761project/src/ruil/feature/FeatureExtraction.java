@@ -15,10 +15,10 @@ public class FeatureExtraction {
 		 * Feature 1
 		 */
 		
-	//	TriggerNetworkSentenceFeatureExtraction f1 = new TriggerNetworkSentenceFeatureExtraction();
+		TriggerNetworkSentenceFeatureExtraction f1 = new TriggerNetworkSentenceFeatureExtraction();
 		
-	//	FileUtil.writeToFile(Config.TESTING_FEATURE_TRIGGERSNETWORK_SEN, f1.extractTriggerNetworkFeatures(TrnTstArticlesReader
-	//			.readArticles(testingFilePathName)));
+    	FileUtil.writeToFile(Config.TESTING_FEATURE_TRIGGERSNETWORK_SEN, f1.extractTriggerNetworkFeatures(TrnTstArticlesReader
+				.readArticles(testingFilePathName)));
 
 	
         /*
@@ -35,11 +35,11 @@ public class FeatureExtraction {
 		 */
 		FileUtil.mergeFeaturesFromFiles(Config.TESTING_FEATURE_NGRAM, Config.TESTING_FEATURE_NGRAM_MERGE);
 
-		FeatureStandarization.normalize(
+		FeatureStandarization.normalizeTest(
 				Config.TESTING_FEATURE_TRIGGERSNETWORK_SEN,
 				Config.TESTING_FEATURE_SELFTRIGGER,
 				Config.TESTING_FEATURE_NGRAM_MERGE,
-				Config.TESTING_ARTICALE_LABEL_FILEPATHNAME,
+				//Config.TESTING_ARTICALE_LABEL_FILEPATHNAME,
 				Config.TESTING_FEATURE);
 	}
 

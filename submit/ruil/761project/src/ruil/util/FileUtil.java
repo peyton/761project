@@ -1,5 +1,5 @@
 package ruil.util;
-
+import java.util.Collections;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -87,6 +87,7 @@ public class FileUtil {
 				// System.out.println(fileEntry.getName());
 			}
 		}
+        Collections.sort(list);
 		return list;
 	}
 

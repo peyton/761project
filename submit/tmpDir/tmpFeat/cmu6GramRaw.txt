@@ -1,0 +1,5 @@
+Perplexity = 667.72, Entropy = 9.38 bits,docLen = 28
+Perplexity = 79.06, Entropy = 6.30 bits,docLen = 27
+Perplexity = 24.76, Entropy = 4.63 bits,docLen = 16
+Perplexity = 102.09, Entropy = 6.67 bits,docLen = 24
+Perplexity = 220.94, Entropy = 7.79 bits,docLen = 19

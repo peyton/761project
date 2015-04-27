@@ -68,7 +68,7 @@ public class FeatureStandarization {
 		}
 		return results;
 	}
-
+	
 	static void normalize(String triggersNetworkSenFilePathName, String selfTriggerFilePathName,
 			String ngramFilePathName, String labelFilePathName, String outputFeatureFilePathName)
 			throws FileNotFoundException {
@@ -130,6 +130,77 @@ public class FeatureStandarization {
 		
 		for (int i = 0; i < labels.size(); i++) {
 			builder.append(labels.get(i));
+			for(int j=0;j<ngramScores.get(i).length;j++){
+				builder.append(" "+(j+1)+":" + ngramScores.get(i)[j]);
+			}
+			builder.append(" "+(ngramScores.get(i).length+1)+":" + senScoreAvg.get(i));
+			builder.append(" "+(ngramScores.get(i).length+2)+":" + selfTriggerScores.get(i)[0]);
+			builder.append(" "+(ngramScores.get(i).length+3)+":" + selfTriggerScores.get(i)[1]);
+			builder.append("\n");
+		}
+
+		FileUtil.writeToFile(outputFeatureFilePathName, builder);
+	}
+	
+	static void normalizeTest(String triggersNetworkSenFilePathName, String selfTriggerFilePathName,
+			String ngramFilePathName, String outputFeatureFilePathName)
+			throws FileNotFoundException {
+		/* 
+		 * Trigger Network Sentence
+		 */
+		List<String> senlines = FileUtil.readFile(triggersNetworkSenFilePathName);
+
+		ArrayList<ArrayList<Double>> senTriggerNetworkScores = new ArrayList<ArrayList<Double>>();
+		for (int i = 0; i < senlines.size(); i++) {
+			ArrayList<Double> curScores = new ArrayList<Double>();
+			String line = senlines.get(i);
+			if (!line.equals("")) {
+				String[] seg = line.split(" ");
+				for (int j = 0; j < seg.length; j++) {
+					curScores.add(Double.parseDouble(seg[j].substring(seg[j]
+							.indexOf(":") + 1)));
+				}
+			}
+			senTriggerNetworkScores.add(curScores);
+		}
+
+		ArrayList<Double> senScoreAvg = FeatureStandarization
+				.extractAvgFeatures(senTriggerNetworkScores);
+		
+		/*
+		 * Self Trigger
+		 */
+		ArrayList<Double[]> selfTriggerScores=new ArrayList<Double[]>();
+		List<String> lines = FileUtil.readFile(selfTriggerFilePathName);
+		for (int i = 0; i < lines.size(); i++) {
+			String[] scoreStrs=lines.get(i).split(" ");
+			Double[] scores=new Double[scoreStrs.length];
+			for(int j=0;j<scores.length;j++){
+				scores[j]=Double.parseDouble(scoreStrs[j]);
+			}
+			selfTriggerScores.add(scores);
+		}
+		
+
+		/*
+		 *  n-Gram
+		 */
+		List<String> ngramLines = FileUtil.readFile(ngramFilePathName);
+		ArrayList<Double[]> ngramScores=new ArrayList<Double[]>();
+		for (int i = 0; i < ngramLines.size(); i++) {
+			String[] scoreStrs=ngramLines.get(i).split(" ");
+			Double[] scores=new Double[scoreStrs.length];
+			for(int j=0;j<scores.length;j++){
+				scores[j]=Double.parseDouble(scoreStrs[j]);
+			}
+			ngramScores.add(scores);
+		}
+	
+
+		StringBuilder builder = new StringBuilder();
+		
+		for (int i = 0; i < selfTriggerScores.size(); i++) {
+			builder.append(1);
 			for(int j=0;j<ngramScores.get(i).length;j++){
 				builder.append(" "+(j+1)+":" + ngramScores.get(i)[j]);
 			}
