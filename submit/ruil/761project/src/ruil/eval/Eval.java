@@ -24,7 +24,7 @@ public class Eval {
 			count++;
 		}
 		
-		System.out.println("Perplexity: "+sum/count);
+		//System.out.println("Perplexity: "+sum/count);
 	}
 
 	public static double log2(double n) {

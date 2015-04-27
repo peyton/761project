@@ -136,6 +136,7 @@ public class FeatureStandarization {
 			builder.append(" "+(ngramScores.get(i).length+1)+":" + senScoreAvg.get(i));
 			builder.append(" "+(ngramScores.get(i).length+2)+":" + selfTriggerScores.get(i)[0]);
 			builder.append(" "+(ngramScores.get(i).length+3)+":" + selfTriggerScores.get(i)[1]);
+			builder.append(" "+(ngramScores.get(i).length+4)+":" + selfTriggerScores.get(i)[2]);
 			builder.append("\n");
 		}
 
@@ -207,6 +208,7 @@ public class FeatureStandarization {
 			builder.append(" "+(ngramScores.get(i).length+1)+":" + senScoreAvg.get(i));
 			builder.append(" "+(ngramScores.get(i).length+2)+":" + selfTriggerScores.get(i)[0]);
 			builder.append(" "+(ngramScores.get(i).length+3)+":" + selfTriggerScores.get(i)[1]);
+			builder.append(" "+(ngramScores.get(i).length+4)+":" + selfTriggerScores.get(i)[2]);
 			builder.append("\n");
 		}
 

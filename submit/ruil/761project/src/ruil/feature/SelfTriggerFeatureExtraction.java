@@ -2,6 +2,8 @@ package ruil.feature;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import ruil.util.StopWords;
 
 import ruil.feature.triggersnetwork.SelfTriggers;
 import ruil.util.Config;
@@ -9,6 +11,11 @@ import ruil.util.FileUtil;
 import ruil.util.TrnTstArticlesReader;
 
 public class SelfTriggerFeatureExtraction {
+    public SelfTriggerFeatureExtraction(){
+        StopWords.getInstance();
+    }
+
+
 	StringBuilder extractSelfTriggerFeatures(
 			ArrayList<ArrayList<ArrayList<String>>> articles) {
 		StringBuilder builder = new StringBuilder();
@@ -20,8 +27,9 @@ public class SelfTriggerFeatureExtraction {
 			fs[1] = SelfTriggers.extract(article);
 			fs[2] = SelfTriggers.normalizedEntropy(article);
 			current.append(fs[0]+" "+fs[1] + " "+fs[2]+"\n");
+            //System.out.println(" " + fs[0] + " " + fs[1] + " " + fs[2]);
 			builder.append(current);
-		}
+        }
 		return builder;
 	}
 

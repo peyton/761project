@@ -39,4 +39,6 @@ cd ~/761project/submit/
 
 echo "generating result..."
 cd ~/761project/submit/ruil/761project/bin
-java -cp .:bin:**/*.class ruil.eval.Eval
+res=$(java -cp .:bin:**/*.class ruil.eval.Eval)
+echo "$res" > outFile
+
